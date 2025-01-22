@@ -1,0 +1,186 @@
+Civilité;Prenom;Nom;Societe;Site;Departement;Service;;fonction;Manager-Prenom;Manager-Nom;Nom de PC;Marque PC;Date de naissance;Telephone fixe;Telephone portable;Télétravail
+M.;Corentin;Arnaud;BillU;Paris;Communication et Relations publiques;Communication interne;OU=Communication et Relations publiques,OU=Communication interne,DC=billu,DC=lan;Community manager;Gaelle;Colin;PA11094;DELL;01/01/1991  ;0148522008;0710630503  ;Non
+M.;Diego;Aubert;BillU;Paris;Communication et Relations publiques;Communication interne;OU=Communication et Relations publiques,OU=Communication interne,DC=billu,DC=lan;Community manager;Gaelle;Colin;PA19149;DELL;14/05/1989  ;0198004015  ;0736672209  ;Non
+M.;Erwan;Faure;BillU;Paris;Communication et Relations publiques;Communication interne;OU=Communication et Relations publiques,OU=Communication interne,DC=billu,DC=lan;Chargé de communication;Gaelle;Colin;PA10218;;17/06/1993  ;0127364911  ;0707561174  ;Non
+M.;Loic;Blanc;BillU;Paris;Communication et Relations publiques;Communication interne;OU=Communication et Relations publiques,OU=Communication interne,DC=billu,DC=lan;Chargé en droit de la communication;Gaelle;Colin;PA88356;DELL;03/11/1982  ;0160352162;0747070420  ;Non
+M.;Gaetan;Roussel;BillU;Paris;Communication et Relations publiques;Gestion des marques;OU=Communication et Relations publiques,OU=Gestion des marques,DC=billu,DC=lan;Webmaster;Gaelle;Colin;PA74884;DELL;27/10/1994  ;0181708327  ;0622836246  ;Non
+Mme;Ines;Henry;BillU;Paris;Communication et Relations publiques;Gestion des marques;OU=Communication et Relations publiques,OU=Gestion des marques,DC=billu,DC=lan;Webmaster;Gaelle;Colin;PA39469;DELL;05/01/2000  ;0138585445  ;0685150170  ;Non
+Mme;Laurence;Guerin;BillU;Paris;Communication et Relations publiques;Gestion des marques;OU=Communication et Relations publiques,OU=Gestion des marques,DC=billu,DC=lan;Designer graphique;Gaelle;Colin;PA63117;DELL;20/07/1990  ;0114806301  ;0642681764  ;Non
+M.;Lukas;Rousseau;BillU;Paris;Communication et Relations publiques;Gestion des marques;OU=Communication et Relations publiques,OU=Gestion des marques,DC=billu,DC=lan;photographe;Gaelle;Colin;PA74987;DELL;19/04/1993  ;0199526389  ;0742450021  ;Non
+M.;Mathias;Muller;BillU;Paris;Communication et Relations publiques;Gestion des marques;OU=Communication et Relations publiques,OU=Gestion des marques,DC=billu,DC=lan;Community manager;Gaelle;Colin;PA63498;DELL;08/12/2000  ;0112691924  ;0695993512  ;Non
+M.;Alban;Dumas;BillU;Paris;Communication et Relations publiques;Relation Médias;OU=Communication et Relations publiques,OU=Relation Médias,DC=billu,DC=lan;Rédacteur;Aurelien;Brunet;PA78671;HP;02/12/1987  ;0197796902  ;0615034263  ;Non
+M.;Damien;Calouhouet;I-magyne;Paris;Communication et Relations publiques;Relation Médias;OU=Communication et Relations publiques,OU=Relation Médias,DC=billu,DC=lan;Monteur;Aurelien;Brunet;-;-;-;-;0612558490;-
+Mme;Felianne;Fernandez;BillU;Paris;Communication et Relations publiques;Relation Médias;OU=Communication et Relations publiques,OU=Relation Médias,DC=billu,DC=lan;Rédacteur;Aurelien;Brunet;PA92969;DELL;17/11/1992  ;0122223912  ;0655605121  ;Non
+M.;Felix;Jean;Studio Dlight;Nantes;Communication et Relations publiques;Relation Médias;OU=Communication et Relations publiques,OU=Relation Médias,DC=billu,DC=lan;Monteur;Aurelien;Brunet;-;-;-;-;0684213048;-
+Mme;Régina;Illaconnesé;BillU;Paris;Communication et Relations publiques;Relation Médias;OU=Communication et Relations publiques,OU=Relation Médias,DC=billu,DC=lan;Chargée relation presse;Aurelien;Brunet;PA99009;DELL;16/11/1994  ;0155106945  ;0643567057  ;Non
+Mme;Sophia;Kusmérowic;BillU;Paris;Communication et Relations publiques;Relation Médias;OU=Communication et Relations publiques,OU=Relation Médias,DC=billu,DC=lan;Chargée relation presse;Aurelien;Brunet;PA76764;DELL;10/08/1988  ;0134259365  ;0732836175  ;Non
+M.;Aurelien;Brunet;BillU;Paris;Communication et Relations publiques;;OU=Communication et Relations publiques,DC=billu,DC=lan;Responsable relation média;Noémie;Leloir;PA68867;DELL;12/03/1985  ;0114409115  ;0778858220  ;Non
+Mme;Gaelle;Colin;BillU;Paris;Communication et Relations publiques;;OU=Communication et Relations publiques,DC=billu,DC=lan;Responsable communication;Noémie;Leloir;PA23669;DELL;23/06/1999  ;0146389837  ;0625101497  ;Non
+Mme;Noémie;Leloir;BillU;Paris;Communication et Relations publiques;;OU=Communication et Relations publiques,DC=billu,DC=lan;Directrice Communication et Relations publiques;Camille;Martin;PA68385;DELL;14/11/1994  ;0165300831  ;0628752957  ;Non
+Mme;Irène;Idr-Bongo;Livingston & Associés;Paris;Département Juridique;Droit des sociétés;OU=Département Juridique,DC=billu,DC=lan;Avocat;Fauve;Hôlth;-;-;-;0142995102;-;-
+M.;Jérémie;Allert;Livingston & Associés;Paris;Département Juridique;Droit des sociétés;OU=Département Juridique,DC=billu,DC=lan;Juriste;Fauve;Hôlth;-;-;-;0123954236;-;-
+Mme;Nadia;Culcùu;Livingston & Associés;Paris;Département Juridique;Droit des sociétés;OU=Département Juridique,DC=billu,DC=lan;Juriste;Fauve;Hôlth;-;-;-;0168235541;-;-
+M.;Serge;Kalfandier;Livingston & Associés;Paris;Département Juridique;Droit des sociétés;OU=Département Juridique,DC=billu,DC=lan;Avocat;Fauve;Hôlth;-;-;-;0187569924;-;-
+Mme;Faustine;Denis;BillU;Paris;Département Juridique;Propriété intellectuelle;OU=Département Juridique,DC=billu,DC=lan;Juriste;Fauve;Hôlth;PA51856;HP;15/03/1983  ;0102226399  ;-;Non
+Mme;Hélène;Cault;BillU;Paris;Département Juridique;Propriété intellectuelle;OU=Département Juridique,DC=billu,DC=lan;Juriste;Fauve;Hôlth;PA26363;LENOVO;30/06/1985  ;0155916179  ;-;Non
+M.;Remi;Advezekt;BillU;Paris;Département Juridique;Protection des données et conformité;OU=Département Juridique,DC=billu,DC=lan;Juriste;Fauve;Hôlth;PA12540;LENOVO;28/05/1997  ;0488168544;-;Non
+M.;Robin;Bourgeois;BillU;Paris;Département Juridique;Protection des données et conformité;OU=Département Juridique,DC=billu,DC=lan;Juriste;Fauve;Hôlth;PA33490;HP;17/07/1997  ;0130797419  ;-;Non
+M.;Yann;Boyer;BillU;Paris;Département Juridique;Protection des données et conformité;OU=Département Juridique,DC=billu,DC=lan;Juriste;Fauve;Hôlth;PA48690;LENOVO;30/03/1992  ;0198705216  ;-;Non
+Mme;Fauve;Hôlth;BillU;Paris;Département Juridique;;OU=Département Juridique,DC=billu,DC=lan;Directeur juridique;Camille;Martin;PA87056;LENOVO;08/01/1988;0169521011;0757881221;Non
+M.;Adam;Thomas;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA43813;TOSHIBA;03/03/1993  ;-;-;Non
+Mme;Charlotte;Giroux;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA99876;LENOVO;14/12/1998  ;-;-;Non
+M.;Felix;Hoffmann;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA41987;HP;26/08/1987  ;-;-;Non
+M.;Florent;Houssay;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA90613;HP;12/10/1993  ;-;-;Non
+M.;Jéremy;Martelant;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA23575;LENOVO;30/06/1989  ;-;-;Non
+M.;Luca;Duval;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA18845;LENOVO;25/09/1987  ;-;-;Non
+Mme;Nadège;Rouiller;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA36514;LENOVO;05/12/1983  ;-;-;Non
+M.;Oscar;Gautier;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA72016;HP;15/06/1990  ;-;-;Non
+M.;Sacha;Sacha-David ;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA31686;HP;13/08/1991  ;-;-;Non
+Mme;Stéphanie;Le Kerbriault;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA42543;TOSHIBA;17/03/1983  ;-;-;Non
+M.;Wilfried;José;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Responsable analyse et conception;Sofia;Rossi;PA14433;LENOVO;29/06/1987  ;0188064257  ;0773629374  ;Non
+M.;William;Lemaire;BillU;Paris;Développement logiciel;analyse et conception;OU=Dévoloppement logiciel,OU=analyse et conception,DC=billu,DC=lan;Développeur;Wilfried;José;PA45623;LENOVO;10/08/1998  ;-;-;Non
+M.;Aarav;Gupta;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA24630;HP;30/06/1994  ;-;-;Non
+Mme;Amélie;Blanchet;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA21577;TOSHIBA;08/08/2001;-;-;Non
+Mme;Amélie;Fournier;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA60728;DELL;22/07/1987  ;-;-;Non
+Mme;Amira;El-Mahdi;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA55201;TOSHIBA;29/07/1996  ;-;-;Non
+M.;Arjun;Patel;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA40065;DELL;03/06/2001  ;-;-;Non
+Mme;Aurélie;Yosef;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA23575;DELL;23/08/1990  ;-;-;Non
+Mme;Aya;Benali;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA77535;DELL;29/10/1987;-;-;Non
+M.;Benjamin;Schmitt;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA33002;DELL;10/01/1986  ;-;-;Non
+Mme;Carla;Pelcaut;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA77321;DELL;07/12/1988  ;-;-;Non
+Mme;Chloé;Recteur;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA69037;HP;01/06/1993  ;-;-;Non
+Mme;Clara;Garcia;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA48530;LENOVO;25/12/1993  ;-;-;Non
+M.;David;Vidal;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA59874;TOSHIBA;16/12/1985  ;-;-;Non
+M.;Dmitri;Ivanov;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA75404;DELL;13/09/1996  ;-;-;Non
+M.;Emilien;Gerot;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA51163;LENOVO;31/07/1999  ;-;-;Non
+Mme;Emma;Leclerc;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA19161;LENOVO;06/09/1986  ;-;-;Non
+Mme;Emmanuelle;Le Doux;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA95467;DELL;31/10/1982  ;-;-;Non
+M.;Eshan;Khan;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA34827;TOSHIBA;30/01/1994  ;-;-;Non
+M.;Etienne;Legrand;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA86254;HP;02/03/2000  ;-;-;Non
+M.;Fabio;Romano;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA90927;HP;13/08/1995  ;-;-;Non
+Mme;Fergie;Lork;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA79446;TOSHIBA;26/07/1996  ;-;-;Non
+M.;Florian;Rellay;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Responsable developpement;Sofia;Rossi;PA33002;TOSHIBA;17/05/1991  ;0126036632  ;0749534624  ;Non
+M.;Giovanni;Moretti;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA45337;TOSHIBA;16/01/1995  ;-;-;Non
+M.;Guillaume;Pierre;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA74884;DELL;04/09/2001  ;-;-;Non
+Mme;Hamza;Amari;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA10427;;28/10/1993  ;-;-;Non
+M.;Hao;Wang;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA70346;DELL;19/07/1984  ;-;-;Non
+M.;Henri;Lambert;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA85194;HP;06/08/1997  ;-;-;Non
+Mme;Ines;Dupont;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA62916;LENOVO;10/10/1997  ;-;-;Non
+Mme;Jaxon;Dicker Brown;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA78780;DELL;04/02/1995  ;-;-;Non
+M.;Jean;Rolland;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA43813;DELL;16/03/1997  ;-;-;Non
+Mme;Julia;Schneider;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA43252;DELL;02/09/1997  ;-;-;Non
+M.;Kaito;Takahashi;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA92121;LENOVO;04/12/1996  ;-;-;Non
+M.;Kevin;Dumont;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA32275;DELL;27/10/1986  ;-;-;Non
+M.;Killian;Masson;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA34551;LENOVO;06/10/2000  ;-;-;Non
+M.;Klaus;Becker;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA52587;LENOVO;18/07/2000  ;-;-;Non
+Mme;Lina;Müller;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA25185;DELL;02/10/1992  ;-;-;Non
+M.;Luc;Martin;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA94045;TOSHIBA;23/06/1995  ;-;-;Non
+M.;Martin;Nguyen;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA57906;DELL;18/07/1998  ;-;-;Non
+M.;Matteo;Ferrari;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA96975;DELL;23/04/1999  ;-;-;Non
+Mme;Mia;Johnson;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA67552;DELL;07/02/1992  ;-;-;Non
+M.;Miguel;Hernandez;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA52831;DELL;12/06/1982  ;-;-;Non
+M.;Morgan;O'Flaherty;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA36514;DELL;22/10/1983  ;-;-;Non
+Mme;Nora;O'Sullivan;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA12745;DELL;15/01/1988  ;-;-;Non
+M.;Norman;Robin;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA57512;HP;23/09/1993  ;-;-;Non
+Mme;Rafaella;Martinez;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA99298;DELL;30/04/1993  ;-;-;Non
+M.;Sacha;Lopez;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA19651;LENOVO;10/10/1997  ;-;-;Non
+M.;Samuel;Clement;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA45337;DELL;07/01/1992  ;-;-;Non
+Mme;Sara;Besnheard;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA15299;HP;04/09/1988  ;-;-;Non
+M.;Seamus;O'Connor;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA48799;HP;24/07/1987  ;-;-;Non
+M.;Sébastien;Durand;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA27630;DELL;25/11/1993  ;-;-;Non
+M.;Simon;Gauthier;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA28156;HP;01/11/1992  ;-;-;Non
+M.;Tristan;Fontaine;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA96447;DELL;25/02/1988  ;-;-;Non
+M.;Tristan;Le Petit;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA74440;HP;14/10/1986  ;-;-;Non
+M.;Victor;Chevalier;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA32765;DELL;20/06/1983  ;-;-;Non
+M.;Vincent;Gerard;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA52948;LENOVO;18/09/1988  ;-;-;Non
+Mme;Yara;Abadi;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA58412;LENOVO;11/08/1985  ;-;-;Non
+M.;Yiannis;Papadopoulos;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA57679;TOSHIBA;27/04/1991  ;-;-;Non
+M.;Yohan;Pillet;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Florian;Rellay;PA83956;DELL;26/12/1998  ;-;-;Non
+M.;Youssef;Al-Masri;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA51530;HP;29/06/1983  ;-;-;Non
+Mme;Zoe;Smith;BillU;Paris;Développement logiciel;Développement;OU=Dévoloppement logiciel,OU=Développement,DC=billu,DC=lan;Développeur;Hana;Kim;PA53861;DELL;19/06/1998  ;-;-;Non
+Mme;Isabel;Gomez;BillU;Paris;Développement logiciel;Recherche et Prototype;OU=Dévoloppement logiciel,OU=Recherche et Prototype,DC=billu,DC=lan;Développeur;Niko;Gruber;PA21386;HP;23/06/1984  ;0158890916  ;0601928581  ;Non
+M.;Julien;Lefebvre;BillU;Paris;Développement logiciel;Recherche et Prototype;OU=Dévoloppement logiciel,OU=Recherche et Prototype,DC=billu,DC=lan;Développeur;Niko;Gruber;PA67334;LENOVO;10/12/2001  ;0182968579  ;0714669952  ;Non
+M.;Niko;Gruber;BillU;Paris;Développement logiciel;Recherche et Prototype;OU=Dévoloppement logiciel,OU=Recherche et Prototype,DC=billu,DC=lan;Responsable Recherche;Sofia;Rossi;PA82471;HP;17/11/1993  ;0148808015  ;0653178244  ;Non
+Mme;Sophie;Mercier--Le-Coutourd;BillU;Paris;Développement logiciel;Recherche et Prototype;OU=Dévoloppement logiciel,OU=Recherche et Prototype,DC=billu,DC=lan;Développeur;Niko;Gruber;PA27339;HP;11/03/1992  ;0138775905  ;0704209714  ;Non
+Mme;Angéline;Lefaivre;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA21358;LENOVO;04/06/1999  ;-;-;Non
+Mme;Camille;Bôrner;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA46875;LENOVO;07/06/2000  ;-;-;Non
+Mme;Elena;Sánchez;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Responsable test et qualité;Sofia;Rossi;PA83940;LENOVO;23/12/1986  ;0107161739  ;0628631838  ;Non
+M.;Esteban;Gonzàlez;2Face;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Testeur;Elena;Sánchez;-;-;-;-;-;-
+Mme;Eva;Simonet;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA81191;LENOVO;20/01/1994  ;-;-;Non
+M.;Fabien;Hy-D’Jykov;2Face;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Testeur;Elena;Sánchez;-;-;-;0177322131;0619087602;-
+M.;Fabien;Lecointre;2Face;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Testeur;Elena;Sánchez;-;-;-;-;-;-
+M.;Guido;Bianchi;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA27339;LENOVO;25/09/1983  ;-;-;Non
+Mme;Héléna;Kusmérowa;2Face;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Testeur;Elena;Sánchez;-;-;-;-;-;-
+Mme;Laura;Lemeunier;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA46875;HP;30/04/2001  ;-;-;Non
+M.;Léo;Dubois;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA84928;LENOVO;07/12/1997  ;-;-;Non
+Mme;Marie;Dufour;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA72687;LENOVO;22/05/2000  ;-;-;Non
+M.;Maximilian;Wagner;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA53201;HP;29/11/1984  ;-;-;Non
+M.;Niamh ;Fitzpatrick;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA31784;TOSHIBA;11/04/1987  ;-;-;Non
+Mme;Nina;Ledoux;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA31356;LENOVO;21/04/1998  ;-;-;Non
+M.;Olivetti;Del Roy;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA78411;HP;20/03/1989  ;-;-;Non
+M.;Rémy;Leriche;2Face;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Testeur;Elena;Sánchez;-;-;-;-;-;-
+M.;Tariq;Aziz;BillU;Paris;Développement logiciel;Test et qualité;OU=Dévoloppement logiciel,OU=Test et qualité,DC=billu,DC=lan;Développeur;Elena;Sánchez;PA31010;LENOVO;12/03/1989  ;-;-;Non
+Mme;Sofia;Rossi;BillU;Paris;Développement logiciel;;OU=Dévoloppement logiciel,DC=billu,DC=lan;Directeur Développement logiciel;Camille;Martin;PA93655;TOSHIBA;21/09/1998  ;0185544131  ;0730413931  ;Non
+M.;Alexis;Bernard;BillU;Paris;Direction;;OU=Direction,DC=billu,DC=lan;Directeur adjoint;Camille;Martin;PA89346;DELL;11/04/1991  ;0187246457  ;0738812832  ;Non
+M.;Antoine;Dubois;BillU;Paris;Direction;;OU=Direction,DC=billu,DC=lan;Assistant de direction;Camille;Martin;PA75792;TOSHIBA;12/12/1998  ;0112092812  ;0757172438  ;Non
+Mme;Camille;Martin;BillU;Paris;Direction;;OU=Direction,DC=billu,DC=lan;CEO;-;;PA12959;TOSHIBA;09/05/1985  ;0160409379  ;0653791741  ;Non
+M.;Alan;Meunier;BillU;Paris;DSI;Administration Systèmes et Réseaux;OU=DSI,DC=billu,DC=lan;Technicien réseaux;Anthony;Noel;PA21577;DELL;02/08/1995  ;0194124692  ;0687340310  ;Non
+Mme;Marie;Meyer;BillU;Paris;DSI;Administration Systèmes et Réseaux;OU=DSI,DC=billu,DC=lan;Technicien Systèmes;Anthony;Noel;PA33490;DELL;27/12/1997  ;0134344137  ;0717065142  ;Non
+M.;Mathis;Mercier;BillU;Paris;DSI;Administration Systèmes et Réseaux;OU=DSI,DC=billu,DC=lan;Technicien réseaux;Anthony;Noel;PA30819;DELL;21/08/1993  ;0466874640  ;0745093669  ;Non
+Mme;Juliette;Roux;BillU;Paris;DSI;Développement et Intégration;OU=DSI,DC=billu,DC=lan;Développeur;Anthony;Noel;PA73994;DELL;30/05/1985  ;0134118694  ;0665692415  ;Non
+Mme;Juliette;Roy;BillU;Paris;DSI;Développement et Intégration;OU=DSI,DC=billu,DC=lan;Développeur;Anthony;Noel;PA83956;DELL;12/11/1991  ;0104199164  ;0637045158  ;Non
+M.;Romain;Vincent;BillU;Paris;DSI;Développement et Intégration;OU=DSI,DC=billu,DC=lan;Intégrateur;Anthony;Noel;PA52103;DELL;30/08/1987  ;0192883550  ;0770092044  ;Non
+M.;Aaron;Roche;BillU;Paris;DSI;Exploitation;OU=DSI,DC=billu,DC=lan;Technicien d'exploitation;Anthony;Noel;PA76820;DELL;20/10/2001  ;0400609816  ;0673124437  ;Non
+M.;Bryan;Perez;BillU;Paris;DSI;Exploitation;OU=DSI,DC=billu,DC=lan;Technicien d'exploitation;Anthony;Noel;PA78323;DELL;22/05/1993  ;0131204687  ;0664331983  ;Non
+Mme;Ines;Roger;BillU;Paris;DSI;Exploitation;OU=DSI,DC=billu,DC=lan;Technicien de maintenance;Anthony;Noel;PA69442;DELL;13/12/1997  ;0490987479  ;0617155871  ;Non
+M.;Julien;Duran;BillU;Paris;DSI;Exploitation;OU=DSI,DC=billu,DC=lan;Technicien de maintenance;Anthony;Noel;PA84572;DELL;01/05/1989  ;0137916836  ;0704153936  ;Non
+M.;Tom;Morel;BillU;Paris;DSI;Support;OU=DSI,DC=billu,DC=lan;Hotliner;Anthony;Noel;PA32765;DELL;31/03/2001  ;0181640031  ;0666489658  ;Non
+M.;Anthony;Noel;BillU;Paris;DSI;;OU=DSI,DC=billu,DC=lan;Directeur des systèmes d'information;Camille;Martin;PA85785;DELL;31/10/1990  ;0174752256  ;0663073894  ;Non
+M.;Alex;Barbier;BillU;Paris;Finance et Comptabilité;Finance;OU=Finance et Comptabilité,DC=billu,DC=lan;Analyste financier;Yacine;Hamad;PA34551;TOSHIBA;21/10/1992  ;0153906457  ;-;Non
+M.;Matteo;Simon;BillU;Paris;Finance et Comptabilité;Finance;OU=Finance et Comptabilité,DC=billu,DC=lan;Controleur de gestion;Yacine;Hamad;PA57512;HP;28/11/1986  ;0175097244  ;-;Non
+Mme;Noémie;Andre;BillU;Paris;Finance et Comptabilité;Finance;OU=Finance et Comptabilité,DC=billu,DC=lan;Controleur de gestion;Yacine;Hamad;PA12959;TOSHIBA;05/05/1995  ;0109401276  ;-;Non
+M.;Yacine;Hamad;BillU;Paris;Finance et Comptabilité;Finance;OU=Finance et Comptabilité,DC=billu,DC=lan;Directeur financier;Camille;Martin;PA68867;HP;18/10/1992;0154314543  ;0648462640  ;Non
+M.;Quentin;Bertrand;BillU;Paris;Finance et Comptabilité;Fiscalité;OU=Finance et Comptabilité,DC=billu,DC=lan;Conseiller en fiscalité;Yacine;Hamad;PA31320;LENOVO;22/08/1982  ;0483436266;-;Non
+M.;Maël;Laurent;BillU;Paris;Finance et Comptabilité;Service Comptabilité;OU=Finance et Comptabilité,DC=billu,DC=lan;Comptable;Yacine;Hamad;PA30790;HP;14/08/1987  ;0157784039  ;-;Non
+Mme;Manon;Brun;BillU;Paris;Finance et Comptabilité;Service Comptabilité;OU=Finance et Comptabilité,DC=billu,DC=lan;Comptable;Yacine;Hamad;PA68447;LENOVO;11/06/1998  ;0460954183;-;Non
+M.;Maxime;Lefebvre;BillU;Paris;Finance et Comptabilité;Service Comptabilité;OU=Finance et Comptabilité,DC=billu,DC=lan;Comptable;Yacine;Hamad;PA56314;DELL;26/05/2000  ;0107939301  ;-;Non
+Mme;Louise;Richard;BillU;Paris;QHSE;Certification;OU=QHSE,DC=billu,DC=lan;Auditeur;Arielle;Leroy;PA81191;LENOVO;29/05/1990  ;0159009944  ;-;Non
+Mme;Arielle;Leroy;BillU;Paris;QHSE;Contrôle Qualité;OU=QHSE,DC=billu,DC=lan;Responsable QHSE;Camille;Martin;PA53466;TOSHIBA;14/08/1993  ;0187941494  ;0718694265  ;Non
+M.;Lucas;Moraud;BillU;Paris;QHSE;Contrôle Qualité;OU=QHSE,DC=billu,DC=lan;Animateur sécurité;Arielle;Leroy;PA26363;LENOVO;28/08/1998  ;0108552477  ;-;Non
+M.;Enzo;Petit;BillU;Paris;QHSE;Gestion environnementale;OU=QHSE,DC=billu,DC=lan;Technicien HSE;Arielle;Leroy;PA74987;LENOVO;24/10/1998  ;0171818675  ;-;Non
+M.;Arnoovik;Jlecht;BillU;Paris;Service Commercial;ADV;OU=Service Commercial,DC=billu,DC=lan;Gestionnaire ADV;Bastien;Lucas;PA16353;DELL;19/11/2001  ;0124045383  ;0763236659  ;Non
+M.;Bastien;Lucas;BillU;Paris;Service Commercial;ADV;OU=Service Commercial,DC=billu,DC=lan;Responsable ADV;Pierre;David;PA16564;DELL;16/07/1988  ;0154658546  ;0697336293  ;Non
+Mme;Jade;Lefèvre;BillU;Paris;Service Commercial;ADV;OU=Service Commercial,DC=billu,DC=lan;Gestionnaire ADV;Bastien;Lucas;PA64810;DELL;16/11/1984  ;0180183734  ;0621673896  ;Non
+Mme;Latifa;Jean-Robert De Boisselier;BillU;Paris;Service Commercial;ADV;OU=Service Commercial,DC=billu,DC=lan;Gestionnaire ADV;Bastien;Lucas;PA46917;DELL;02/09/1990  ;0114930105  ;0739063477  ;Non
+Mme;Pauline;Lambert;BillU;Paris;Service Commercial;ADV;OU=Service Commercial,DC=billu,DC=lan;Gestionnaire ADV;Bastien;Lucas;PA37602;DELL;10/11/1987  ;0158406170  ;0606722898  ;Non
+M.;Dorian;Blanchard;BillU;Paris;Service Commercial;B2B;OU=Service Commercial,DC=billu,DC=lan;Commercial;Pierre;David;PA82880;DELL;18/08/1991  ;0451967464;0655939808  ;Non
+M.;Nathan;Dupont;BillU;Paris;Service Commercial;B2B;OU=Service Commercial,DC=billu,DC=lan;Commercial;Pierre;David;PA12427;DELL;01/02/1992  ;0109336075  ;0662152312  ;Non
+M.;Theo;Fournier-Laval;BillU;Paris;Service Commercial;B2B;OU=Service Commercial,DC=billu,DC=lan;Commercial;Pierre;David;PA44614;DELL;16/12/1982  ;0181612961  ;0703432899  ;Non
+M.;Valentin;Bonnet;BillU;Paris;Service Commercial;B2B;OU=Service Commercial,DC=billu,DC=lan;Commercial;Pierre;David;PA90176;DELL;23/02/1987  ;0439648412;0799413599  ;Non
+M.;Charles;Marchand;BillU;Paris;Service Commercial;Service achat;OU=Service Commercial,DC=billu,DC=lan;Acheteur;Kylian;Martinez;PA16013;DELL;29/04/1999  ;0167218515  ;0654606027  ;Non
+M.;Dylan;Marie;BillU;Paris;Service Commercial;Service achat;OU=Service Commercial,DC=billu,DC=lan;Acheteur;Kylian;Martinez;PA59874;DELL;30/03/1991  ;0113588016  ;0690730213  ;Non
+M.;Kylian;Martinez;BillU;Paris;Service Commercial;Service achat;OU=Service Commercial,DC=billu,DC=lan;Responsable achat;Pierre;David;PA19149;DELL;26/08/1988  ;0151530426  ;0696228844  ;Non
+M.;Jules;Girard;BillU;Paris;Service Commercial;Service Client;OU=Service Commercial,DC=billu,DC=lan;Agent;Kylian;Martinez;PA39395;DELL;25/01/1985  ;0163132039  ;-;Non
+Mme;Julie;Francois D'Assise;BillU;Paris;Service Commercial;Service Client;OU=Service Commercial,DC=billu,DC=lan;Agent;Kylian;Martinez;PA79817;DELL;23/09/1994  ;0420495759;-;Non
+M.;Pierre;David;BillU;Paris;Service Commercial;;OU=Service Commercial,DC=billu,DC=lan;Directeur commercial;Camille;Martin;PA90233;TOSHIBA;12/05/1997;0106664984  ;0734442721  ;Non
+Mme;Célia;Da Silva;BillU;Paris;Service recrutement;;OU=Service recrutement,DC=billu,DC=lan;Agent RH;Christophe;Leroux;PA66766;HP;31/07/1986  ;0498537902;-;Non
+M.;Christophe;Leroux;BillU;Paris;Service recrutement;;OU=Service recrutement,DC=billu,DC=lan;Responsable recrutement;Camille;Martin;PA20618;HP;10/05/1992  ;0163902409  ;0784105738  ;Non
+Mme;Mélanie;Carpentier;BillU;Paris;Service recrutement;;OU=Service recrutement,DC=billu,DC=lan;Agent RH;Christophe;Leroux;PA31784;HP;09/08/1983  ;0183765728  ;-;Non
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
