@@ -2,7 +2,7 @@
 
 ## Vidéo de démonstration
 
-[![Voir la vidéo](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S01/Capture%20d'%C3%A9cran%202025-01-23%20160947.png)](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S01/billu.mp4)
+[![Voir la vidéo](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S01/Capture%20d'%C3%A9cran%202025-01-23%20160947.png)](https://youtu.be/m63L78h2rOo)
 # 🏢 BillU : Filiale du Groupe RemindMe
 
 ## 📊 Effectifs et Présentation
