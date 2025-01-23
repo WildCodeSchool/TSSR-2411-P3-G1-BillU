@@ -1,10 +1,4 @@
-# BillU Project
-
-
-## Vidéo de démonstration
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m63L78h2rOo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+# | BillU Project |
 
 # 🏢 BillU : Filiale du Groupe RemindMe
 
