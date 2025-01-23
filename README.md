@@ -1,4 +1,4 @@
-![](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S01/billu.mp4)
+
 # 🏢 BillU : Filiale du Groupe RemindMe
 
 ## 📊 Effectifs et Présentation
