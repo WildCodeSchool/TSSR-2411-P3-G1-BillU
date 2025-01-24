@@ -35,9 +35,9 @@
 
 | Équipement | Détails | Coût |
 |------------|---------|------|
-| Pare-feu (pfSense) | Protectli Vault 4 ports (VP2410) | 400 € |
-| Switch central | TP-Link JetStream TL-SG3428 | 350 € |
-| Switchs départementaux | 9 x TP-Link TL-SG2218 | 1 800 € |
+| Pare-feu (pfSense) | [Protectli Vault 4 ports (VP2410)](https://eu.protectli.com/product/vp2410/) | 400 € |
+| Switch central | [TP-Link JetStream TL-SG3428](https://www.tp-link.com/fr/business-networking/managed-switch/tl-sg3428/) | 350 € |
+| Switchs départementaux | 9 x [TP-Link TL-SG2218](https://www.omadanetworks.com/fr/business-networking/omada-switch-smart/tl-sg2218/) | 1 800 € |
 | Routeur | Non nécessaire (pfSense) | 0 € |
 | **Sous-total** | | **2 550 €** |
 
