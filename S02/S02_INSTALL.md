@@ -8,24 +8,24 @@
 
 En effet, la modification de l’adresse IPv4 via le menu ne suffisait pas.
 
-1. Test de ping sur le serveur BILLU1
-2. Pour lier le serveur core au domaine BILLU.lan, on a utilisé la commande :
+3. Test de ping sur le serveur BILLU1
+4. Pour lier le serveur core au domaine BILLU.lan, on a utilisé la commande :
 
 `Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`<br>
-4. Une fois la commande exécutée, on redémarre le serveur Core avec `Restart-Computer`
+5. Une fois la commande exécutée, on redémarre le serveur Core avec `Restart-Computer`
 
-1. Rendez-vous ensuite sur le serveur principal
+6. Rendez-vous ensuite sur le serveur principal
 
 Sur le Serveur principal
 
-1. Contrôler que le SVR2BILLU fait bien partie du domaine :
+7. Contrôler que le SVR2BILLU fait bien partie du domaine :
 <br><p align="center"><img src="https://github.com/user-attachments/assets/58dc247c-152d-4bc3-bc7f-94955d2f49d1)
 
-2. Ajouter le serveur dans le gestionnaire de serveurs :
+8. Ajouter le serveur dans le gestionnaire de serveurs :
 <br><p align="center"><img src="https://github.com/user-attachments/assets/e15262a8-7c4a-4dfc-aa46-de75c0a737e7" alt=""></p><br>
 <br><p align="center"><img src="https://github.com/user-attachments/assets/73834b49-4e36-40e7-abbd-75dbab327cd7" alt=""></p><br>
 <br><p align="center"><img src="https://github.com/user-attachments/assets/bc1684f6-c8e4-4eb2-ab4d-d16c4ba54388" alt=""></p><br>
-3. Ajouter le rôle RODC au SVR2BILLU, avec l’assistant Ajout de rôles et de fonctionnalités :
+9. Ajouter le rôle RODC au SVR2BILLU, avec l’assistant Ajout de rôles et de fonctionnalités :
 <br><p align="center"><img src="https://github.com/user-attachments/assets/20f7e3fb-c478-40e9-8a5c-dfa679975830" alt=""></p><br>
 <br><p align="center"><img src="https://github.com/user-attachments/assets/bd502b6e-845b-47ae-8a37-b0ce031beaef" alt=""></p><br>
 <br><p align="center"><img src="https://github.com/user-attachments/assets/cc2d7b83-fb80-4abe-b3a8-f4d60508c84a" alt=""></p><br>
