@@ -52,7 +52,7 @@ Nous avons réussi à établir une **connexion RDP** (Remote Desktop Protocol) d
 
 ---
 
-## 2. **Installation du Conteneur AzVec Debian avec Juju
+## 2. **Installation du Conteneur Avec Debian avec Juju
 Avec l'aide de **Juju**, nous avons réussi à installer d'un conteneur Avec Debian. Ce conteneur s'intègre parfaitement dans l'architecture du projet, et son déploiement a été facilité grâce à la puissance de l'outil Juju pour gérer les configurations et les déploiements.
 
 ### 🔧 Configuration de la Machine en DHCP de Secours
