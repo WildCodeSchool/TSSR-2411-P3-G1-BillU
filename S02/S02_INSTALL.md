@@ -19,7 +19,7 @@ En effet, la modification de l’adresse IPv4 via le menu ne suffisait pas.
 Sur le Serveur principal
 
 7. Contrôler que le SVR2BILLU fait bien partie du domaine :
-<br><p align="center"><img src="https://github.com/user-attachments/assets/58dc247c-152d-4bc3-bc7f-94955d2f49d1)
+<br><p align="center"><img src="https://github.com/user-attachments/assets/58dc247c-152d-4bc3-bc7f-94955d2f49d1)alt=""></p><br>
 
 8. Ajouter le serveur dans le gestionnaire de serveurs :
 <br><p align="center"><img src="https://github.com/user-attachments/assets/e15262a8-7c4a-4dfc-aa46-de75c0a737e7" alt=""></p><br>
