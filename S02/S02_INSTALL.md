@@ -11,7 +11,7 @@ En effet, la modification de l’adresse IPv4 via le menu ne suffisait pas.
 1. Test de ping sur le serveur BILLU1
 2. Pour lier le serveur core au domaine BILLU.lan, on a utilisé la commande :
 
-`Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`
+`Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`<br>
 4. Une fois la commande exécutée, on redémarre le serveur Core avec `Restart-Computer`
 
 1. Rendez-vous ensuite sur le serveur principal
