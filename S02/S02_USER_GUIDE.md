@@ -1,5 +1,6 @@
+# Journal de bord : Projet BillU
 
-# 📚 Objectifs du Projet AD-DS et Réseau
+## Semaine 2 : Configuration et Automatisation
 
 ## 1. **AD-DS - Création d'un domaine Active Directory**  
 La première étape consiste à créer un domaine Active Directory (AD) en utilisant deux serveurs Windows Server 2022.
