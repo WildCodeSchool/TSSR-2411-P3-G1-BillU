@@ -6,7 +6,7 @@
 
 `Set-NetIPAddress -IPAddress "172.18.0.4" -PrefixLength 24 -InterfaceAlias "Ethernet 2"`
 
-EN effet, la modification de l’adresse IPv4 via le menu ne suffisait pas.
+En effet, la modification de l’adresse IPv4 via le menu ne suffisait pas.
 
 1. Test de ping sur le serveur BILLU1
 2. Pour lier le serveur core au domaine BILLU.lan, on a utilisé la commande :
