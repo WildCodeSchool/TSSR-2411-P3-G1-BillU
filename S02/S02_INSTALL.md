@@ -39,3 +39,29 @@ On retourne sur le SVR2BILLU pour vérifier que tout est OK et qu’il est bien 
 Avec la commande 
 `Get-ADDomainController -Filter * | Where-Object { $_.Name -eq "SVR2BILLU" }`
 <br><p align="center"><img src="https://github.com/user-attachments/assets/6f85ec68-b0d4-4946-a855-2cf0f5151cd5" alt=""></p><br>
+
+
+# 🎯 Objectifs Secondaires DEFIS - Réalisations Importantes
+
+## 1. **Connexion RDP Externe**
+Nous avons réussi à établir une **connexion RDP** (Remote Desktop Protocol) depuis l'extérieur de **Proxmox**. Cette configuration permet d'accéder à nos serveurs du projet à distance, offrant ainsi une gestion plus souple et sécurisée des environnements sans nécessiter une connexion directe à la machine physique.
+
+### 🔑 Points Clés :
+- **Accès distant sécurisé** aux serveurs via RDP
+- **Simplification de la gestion** des serveurs en dehors de l'infrastructure physique
+
+---
+
+## 2. **Installation du Conteneur AzVec Debian avec Juju
+Avec l'aide de **Juju**, nous avons réussi à installer d'un conteneur Avec Debian. Ce conteneur s'intègre parfaitement dans l'architecture du projet, et son déploiement a été facilité grâce à la puissance de l'outil Juju pour gérer les configurations et les déploiements.
+
+### 🔧 Configuration de la Machine en DHCP de Secours
+Une fois le conteneur installé, nous avons configuré la machine en tant que **DHCP de secours**. Cela permet d'assurer une continuité de service en cas de défaillance du serveur principal DHCP, garantissant ainsi la **fiabilité** et la **résilience** de notre réseau.
+
+### 🛠️ Points Clés :
+- **Déploiement rapide et automatisé du conteneur grâce à Juju
+- **DHCP de secours** pour maintenir la connectivité réseau en cas de problème
+
+---
+
+Ces objectifs secondaires sont des étapes cruciales pour garantir la **disponibilité**, la **flexibilité** et la **robustesse** de l'infrastructure réseau du projet.
