@@ -17,7 +17,7 @@ Puis redémarrer la machine.
 
 5. Liaison du serveur core au domaine BILLU.lan
 
-Avec la commande :`Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`<br>
+Avec la commande :`Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`<br><br>
 6. Une fois la commande exécutée, on redémarre le serveur Core avec `Restart-Computer`
 
 7. Rendez-vous ensuite sur le serveur principal
