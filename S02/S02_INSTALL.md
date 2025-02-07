@@ -12,7 +12,7 @@ En effet, la modification de l’adresse IPv4 via le menu ne suffisait pas.
 
 4. Installation de l'AD sur le serveur core
 
-Via la commande Powershell `Add-WindowsFeature - Name "AD-Domain-Services" -IncludeAllSubFeature`
+Via la commande Powershell `Add-WindowsFeature - Name "AD-Domain-Services" -IncludeAllSubFeature`<br>
 Puis redémarrer la machine.
 
 5. Liaison du serveur core au domaine BILLU.lan
