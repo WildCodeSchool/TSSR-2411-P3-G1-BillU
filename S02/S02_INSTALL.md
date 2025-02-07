@@ -15,9 +15,9 @@ En effet, la modification de l’adresse IPv4 via le menu ne suffisait pas.
 Via la commande Powershell `Add-WindowsFeature - Name "AD-Domain-Services" -IncludeAllSubFeature`
 Puis redémarrer la machine.
 
-6. Pour lier le serveur core au domaine BILLU.lan, on a utilisé la commande :
+5. Liaison du serveur core au domaine BILLU.lan
 
-`Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`<br>
+Avec la commande :`Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`<br>
 5. Une fois la commande exécutée, on redémarre le serveur Core avec `Restart-Computer`
 
 6. Rendez-vous ensuite sur le serveur principal
