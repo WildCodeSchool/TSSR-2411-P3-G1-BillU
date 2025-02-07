@@ -9,7 +9,13 @@
 En effet, la modification de l’adresse IPv4 via le menu ne suffisait pas.
 
 3. Test de ping sur le serveur BILLU1
-4. Pour lier le serveur core au domaine BILLU.lan, on a utilisé la commande :
+
+4. Installation de l'AD sur le serveur core
+
+Via la commande Powershell `Add-WindowsFeature - Name "AD-Domain-Services" -IncludeAllSubFeature`
+Puis redémarrer la machine.
+
+6. Pour lier le serveur core au domaine BILLU.lan, on a utilisé la commande :
 
 `Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`<br>
 5. Une fois la commande exécutée, on redémarre le serveur Core avec `Restart-Computer`
