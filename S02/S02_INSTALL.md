@@ -18,16 +18,16 @@ Puis redémarrer la machine.
 5. Liaison du serveur core au domaine BILLU.lan
 
 Avec la commande :`Add-Computer -DomainName "BILLU.lan" -Credential BILLU\Administrator`<br>
-5. Une fois la commande exécutée, on redémarre le serveur Core avec `Restart-Computer`
+6. Une fois la commande exécutée, on redémarre le serveur Core avec `Restart-Computer`
 
-6. Rendez-vous ensuite sur le serveur principal
+7. Rendez-vous ensuite sur le serveur principal
 
 Sur le Serveur principal
 
-7. Contrôler que le SVR2BILLU fait bien partie du domaine :
+8. Contrôler que le SVR2BILLU fait bien partie du domaine :
 <br><p align="center"><img src="https://github.com/user-attachments/assets/58dc247c-152d-4bc3-bc7f-94955d2f49d1)alt=""></p><br>
 
-8. Ajouter le serveur dans le gestionnaire de serveurs :
+9. Ajouter le serveur dans le gestionnaire de serveurs :
 <br><p align="center"><img src="https://github.com/user-attachments/assets/e15262a8-7c4a-4dfc-aa46-de75c0a737e7" alt=""></p><br>
 <br><p align="center"><img src="https://github.com/user-attachments/assets/73834b49-4e36-40e7-abbd-75dbab327cd7" alt=""></p><br>
 <br><p align="center"><img src="https://github.com/user-attachments/assets/bc1684f6-c8e4-4eb2-ab4d-d16c4ba54388" alt=""></p><br>
