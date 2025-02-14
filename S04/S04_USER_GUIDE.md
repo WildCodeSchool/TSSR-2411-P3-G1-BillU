@@ -1,6 +1,6 @@
 
 # 📊 Journal de bord semaine 4 du projet BILLU
-
+![image](https://github.com/user-attachments/assets/e967e89b-724d-4686-819c-08a026e71875)
 ## ✅ Tâches Accomplies
 
 ###  🏷️ Gestion des Machines
@@ -49,3 +49,17 @@ Tests de connectivité à effectués
 Finalisation de l'importation des données dans GLPI  
 Optimisation des règles pfSense  
 Perfectionnement de la solution de télémétrie  
+
+différentes difficultés techniques.
+
+
+| Système       | Problème                                      | Impact                                           |
+|--------------|-----------------------------------------------|--------------------------------------------------|
+| GPO          | Problèmes d'enregistrement de certaines GPO   | Possible incohérence dans l'application des politiques de groupe sur le réseau |
+| PfSense      | Difficultés d'application des restrictions    | Potentielle faille dans la sécurité du réseau ou problèmes d'accès |
+| GLPI         | Problèmes d'importation des données          | Inventaire et gestion des actifs IT potentiellement incomplets ou désorganisés |
+
+
+
+
+
