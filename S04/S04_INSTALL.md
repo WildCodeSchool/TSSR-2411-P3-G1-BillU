@@ -1,4 +1,4 @@
-# GPO : choix et paramétrage
+# 📝 GPO : choix et paramétrage
 
 1. [GPO fond d'écran](#1-GPO-fond-décran)
 2. [GPO mappage ajout d'un lecteur réseau](#2-GPO-mappage-ajout-dun-lecteur-réseau)
