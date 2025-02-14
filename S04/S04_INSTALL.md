@@ -1,4 +1,7 @@
 # GPO : choix et paramétrage
+
+1. [Fond d'écran](#1-Fond-d'écran)
+
 ## 1. Fond d'écran
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/3393b789-de05-44ab-a6d9-a81bddfcd56d" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/5edc918b-7e80-4c16-9b95-fb72d6a817f0" alt=""></p>
