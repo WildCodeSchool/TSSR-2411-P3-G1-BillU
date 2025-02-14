@@ -67,3 +67,10 @@
 ![GPO-desactiver-gestionnaire-de-taches-4](https://github.com/user-attachments/assets/99fd7879-e482-4c1a-aa81-6621721cd2d5)
 ![GPO-desactiver-gestionnaire-de-taches-5](https://github.com/user-attachments/assets/d1d5d047-21a4-4817-b96a-324ed9e8a9d0)
 ![GPO-desactiver-gestionnaire-de-taches-6](https://github.com/user-attachments/assets/f30f6660-940a-4dc2-bd31-916e732536ee)
+## 10. Installer Google Chrome par défaut sur les PC du domaine
+![GPO-google-chrome-1](https://github.com/user-attachments/assets/14d447fd-9cc2-4097-a79e-56afd79a434d)
+![GPO-google-chrome-2](https://github.com/user-attachments/assets/9875b29b-688e-4fa4-9d78-9e791ea35ed3)
+![GPO-google-chrome-3](https://github.com/user-attachments/assets/7f132d92-f32d-4f7a-9c5a-43c1c06a1b9a)
+![GPO-google-chrome-4](https://github.com/user-attachments/assets/97e155ef-8fc3-404c-9dab-16c6d83b3898)
+![GPO-google-chrome-5](https://github.com/user-attachments/assets/7191e428-a9a1-4b53-94cb-e8741b9bc180)
+
