@@ -4,6 +4,12 @@
 2. [GPO mappage ajout d'un lecteur réseau](#2-GPO-mappage-ajout-dun-lecteur-réseau)
 3. [GPO interdire l'accès panneau de configuration sauf pour les administrateurs](#3-GPO-interdire-laccès-panneau-de-configuration-sauf-pour-les-administrateurs)
 4. [GPO interdire l'accès à la base de registre](#4-GPO-interdire-laccès-à-la-base-de-registre)
+5. [GPO vérrouiller le compte après 5 tentatives pendant une durée déterminée](#5-GPO-vérrouiller-le-compte-après-5-tentatives-pendant-une-durée-déterminée)
+6. [GPO message à l'écran de verrouilage](#6-GPO-message-à-lécran-de-verrouilage)
+7. [GPO écran de veille avec déverrouillage mot de passe](#7-GPO-écran-de-veille-avec-déverrouillage-mot-de-passe)
+8. [GPO interdire l'accès à Powershell sauf pour les administrateurs](#8-GPO-interdire-laccès-à-Powershell-sauf-pour-les-administrateurs)
+9. [GPO interdire l'accès au gestionnaire de tâches sauf pour les administrateurs](#9-GPO-interdire-laccès-au-gestionnaire-de-tâches-sauf-pour-les-administrateurs)
+10. [GPO installer Google Chrome par défaut sur les PC du domaine](#10-GPO-installer-Google-Chrome-par-défaut-sur-les-PC-du-domaine)
 
 # 1. GPO fond d'écran
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/3393b789-de05-44ab-a6d9-a81bddfcd56d" alt=""></p>
