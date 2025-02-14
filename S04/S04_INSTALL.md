@@ -44,6 +44,10 @@
 ![GPO-verouillage-mot-de-passe-5](https://github.com/user-attachments/assets/b2f7bde1-ccfe-4202-b88e-b03ac9e06670)
 ![GPO-verouillage-mot-de-passe-6](https://github.com/user-attachments/assets/55fb441b-6d17-43bc-a1d8-18b82404d885)
 ## 5. Message à l'écran de verrouilage
+![GPO-message-ecran-de-verrouillage-1](https://github.com/user-attachments/assets/12df1213-a9ee-4927-bf8e-1a2c25733876)
+![GPO-message-ecran-de-verrouillage-2](https://github.com/user-attachments/assets/03852b5d-c6a8-4eff-8630-3b5c7db1316c)
+![GPO-message-ecran-de-verrouillage-3](https://github.com/user-attachments/assets/b5ca38e2-25f1-403a-8fb3-ba7f00f7971a)
+![GPO-message-ecran-de-verrouillage-4](https://github.com/user-attachments/assets/39b210d6-a075-4f70-b0cd-2d40b1db70c8)
 
 ![GPO-ecran-veille-avec-mdp-1](https://github.com/user-attachments/assets/ec6b997d-61cd-475b-aee9-276608a3a046)
 ![GPO-ecran-veille-avec-mdp-2](https://github.com/user-attachments/assets/d76c9ee9-e521-46af-99a2-a3d49b83f747)
