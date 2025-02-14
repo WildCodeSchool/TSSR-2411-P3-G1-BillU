@@ -1,7 +1,8 @@
 # GPO : choix et paramétrage
 
-1. [GPO fond d'écran](#1-Fond-décran)
+1. [GPO fond d'écran](#1-GPO-fond-décran)
 2. [GPO mappage ajout d'un lecteur réseau](#2-GPO-mappage-ajout-dun-lecteur-réseau)
+3. [GPO interdire l'accès panneau de configuration sauf pour les administrateurs](#2-GPO-interdire-laccès-panneau-de-configuration-sauf-pour-les-administrateurs)
 
 # 1. GPO fond d'écran
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/3393b789-de05-44ab-a6d9-a81bddfcd56d" alt=""></p>
