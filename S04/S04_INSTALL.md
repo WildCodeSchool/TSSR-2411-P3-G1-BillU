@@ -35,7 +35,7 @@
 ![GPO-base-de-registre-5](https://github.com/user-attachments/assets/b7c2b019-c055-45fe-8214-889524c602f8)
 ![GPO-base-de-registre-6](https://github.com/user-attachments/assets/ff018f18-7057-4801-8df2-b87cbdfa011a)
 ![GPO-base-de-registre-7](https://github.com/user-attachments/assets/3c74840e-d825-4a53-bbcb-43fa7eb05704)
-## 5. Vérrouiller le compte après 5 tentatives pendant 
+## 5. Vérrouiller le compte après 5 tentatives pendant une durée déterminée
 ![GPO-verouillage-mot-de-passe-1](https://github.com/user-attachments/assets/6da88c99-935e-4d3d-9a87-069291999e4d)
 ![GPO-verouillage-mot-de-passe-2](https://github.com/user-attachments/assets/c25afabe-6c11-4abe-9f65-f3e7377fb679)
 ![GPO-verouillage-mot-de-passe-3](https://github.com/user-attachments/assets/aa58eb62-df24-4db1-894c-e308e95480f1)
@@ -52,15 +52,12 @@
 ![GPO-ecran-verrouillage-2](https://github.com/user-attachments/assets/7b8c35c3-52df-4d39-a130-6d664199e798)
 ![GPO-ecran-verrouillage-3](https://github.com/user-attachments/assets/d7c895de-3e9d-46af-be3c-bd48984f436e)
 ![GPO-ecran-verrouillage-4](https://github.com/user-attachments/assets/65dfec70-9614-474d-97a2-3198e6cad67c)
-
+## 7. Interdire l'accès à Powershell sauf pour les administrateurs
 ![GPO-blocage-powershell-1](https://github.com/user-attachments/assets/814c327a-6cd8-4208-a25c-e8e6db9333d2)
 ![GPO-blocage-powershell-2](https://github.com/user-attachments/assets/9ed56564-e761-4ee7-9703-e9919ea88c36)
 ![GPO-blocage-powershell-3](https://github.com/user-attachments/assets/5a746266-0012-4082-b1db-6ca38045954d)
 ![GPO-blocage-powershell-4](https://github.com/user-attachments/assets/766b12f5-555e-469c-847b-4bdb4badfa3e)
-![GPO-mise-en-veille-du-système-1](https://github.com/user-attachments/assets/5bd69c00-3a68-4204-8c4b-a482355e1d74)
-![GPO-mise-en-veille-du-système-2](https://github.com/user-attachments/assets/d82e9fb3-ebeb-4c7e-a60a-6233494ffdb1)
-![GPO-mise-en-veille-du-système-3](https://github.com/user-attachments/assets/d14ee085-988c-4601-9aad-4f66d68f3f7e)
-![GPO-mise-en-veille-du-système-4](https://github.com/user-attachments/assets/9bf2a5cd-8723-4468-9860-b2d243ef1cba)
+## 8. Interdire l'accès au gestionnaire de tâches sauf pour les administrateurs
 ![GPO-desactiver-gestionnaire-de-taches-1](https://github.com/user-attachments/assets/64db55ba-9cf3-4ac7-875f-ad018ead44fa)
 ![GPO-desactiver-gestionnaire-de-taches-2](https://github.com/user-attachments/assets/2ed75b04-d204-4dac-942f-ceeef5e55c53)
 ![GPO-desactiver-gestionnaire-de-taches-3](https://github.com/user-attachments/assets/06de6fdd-4297-4d34-8766-25244edb2a4d)
