@@ -3,7 +3,7 @@
 1. [GPO fond d'écran](#1-Fond-décran)
 2. [GPO mappage lecteur ajout d'un lecteur réseau](#2-Mappage-lecteur-ajout-dun-lecteur-réseau)
 
-## 1. GPO fond d'écran
+1. GPO fond d'écran
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/3393b789-de05-44ab-a6d9-a81bddfcd56d" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/5edc918b-7e80-4c16-9b95-fb72d6a817f0" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/56fc385a-d759-4aea-ba70-81a2e3833b43" alt=""></p>
@@ -13,7 +13,7 @@
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/5d515ce0-cb6b-4976-bf34-2c0d96e41893" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/f9e1b42d-eaba-4611-a926-fb3b8fbcf1d0" alt=""></p>
 
-## 2. GPO mappage lecteur ajout d'un lecteur réseau
+2. GPO mappage lecteur ajout d'un lecteur réseau
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/b2cb1484-fca8-4377-bd2d-a982ddd7af15" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/3aca8a0e-b3b6-4244-b45c-e57fc2c418af" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/a1b35639-a610-4111-b0b1-b9e2c14fbf1f" alt=""></p>
