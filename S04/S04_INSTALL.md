@@ -1,4 +1,5 @@
 # GPO : choix et paramétrage
+## 1. Fond d'écran
 ![GPO-fond-ecran-2](https://github.com/user-attachments/assets/3393b789-de05-44ab-a6d9-a81bddfcd56d)
 ![GPO-fond-ecran-3](https://github.com/user-attachments/assets/5edc918b-7e80-4c16-9b95-fb72d6a817f0)
 ![GPO-fond-ecran-4](https://github.com/user-attachments/assets/56fc385a-d759-4aea-ba70-81a2e3833b43)
@@ -7,12 +8,14 @@
 ![GPO-fond-ecran-7](https://github.com/user-attachments/assets/daed6eb6-52f2-48cd-928f-2f8ab9cf83eb)
 ![GPO-fond-ecran-8](https://github.com/user-attachments/assets/5d515ce0-cb6b-4976-bf34-2c0d96e41893)
 ![GPO-fond-ecran-9](https://github.com/user-attachments/assets/624625d9-cadd-46eb-abb1-94f10d7d1dec)
+## 2. Mappage lecteur : ajout d'une lecteur réseau
 ![GPO-mappage-lecteur-1](https://github.com/user-attachments/assets/b2cb1484-fca8-4377-bd2d-a982ddd7af15)
 ![GPO-mappage-lecteur-2](https://github.com/user-attachments/assets/a1b35639-a610-4111-b0b1-b9e2c14fbf1f)
 ![GPO-mappage-lecteur-3](https://github.com/user-attachments/assets/38155e48-fa03-456f-a600-16c33ec66e23)
 ![GPO-mappage-lecteur-4](https://github.com/user-attachments/assets/f0970a2a-5acc-4ff5-97d6-627ac1c78e67)
 ![GPO-mappage-lecteur-5](https://github.com/user-attachments/assets/a277ccbf-779d-4887-aa10-530e8df88960)
 ![GPO-mappage-lecteur-6](https://github.com/user-attachments/assets/b63940a7-e1a1-49b8-8f57-3a35e0341fd4)
+## 3. Interdire l'accès panneau de configuration sauf pour les administrateurs
 ![GPO-panneau-config - 1](https://github.com/user-attachments/assets/07f4ade4-dac1-4fe0-b6a6-7d6157d4cbed)
 ![GPO-panneau-config - 2](https://github.com/user-attachments/assets/4ed38e93-f723-47c1-b43d-faf1e562f199)
 ![GPO-panneau-config - 3](https://github.com/user-attachments/assets/4aa22261-842c-46ca-8a0b-7481a115b9e8)
@@ -21,6 +24,7 @@
 ![GPO-panneau-config - 6](https://github.com/user-attachments/assets/0ef5185f-020b-4834-81ba-1918b965f23a)
 ![GPO-panneau-config - 20](https://github.com/user-attachments/assets/e92933c0-88af-44fd-9e02-a4cba7c464c5)
 ![GPO-panneau-config - 7](https://github.com/user-attachments/assets/7138c559-9ca0-4221-9cf5-4fae507add15)
+## 4. Interdire l'accès à la base de registre
 ![GPO-base-de-registre-1](https://github.com/user-attachments/assets/06b0d855-c706-4522-b223-dcaa8a7b2c73)
 ![GPO-base-de-registre-2](https://github.com/user-attachments/assets/ec1864bc-bd74-468a-bf5f-049b78e43fc0)
 ![GPO-base-de-registre-3](https://github.com/user-attachments/assets/c42b6069-6538-409f-941c-188586da3522)
@@ -28,6 +32,7 @@
 ![GPO-base-de-registre-5](https://github.com/user-attachments/assets/b7c2b019-c055-45fe-8214-889524c602f8)
 ![GPO-base-de-registre-6](https://github.com/user-attachments/assets/ff018f18-7057-4801-8df2-b87cbdfa011a)
 ![GPO-base-de-registre-7](https://github.com/user-attachments/assets/3c74840e-d825-4a53-bbcb-43fa7eb05704)
+## 5. Vérrouiller le mot de passe après 5 tentatives
 ![GPO-verouillage-mot-de-passe-1](https://github.com/user-attachments/assets/6da88c99-935e-4d3d-9a87-069291999e4d)
 ![GPO-verouillage-mot-de-passe-2](https://github.com/user-attachments/assets/c25afabe-6c11-4abe-9f65-f3e7377fb679)
 ![GPO-verouillage-mot-de-passe-3](https://github.com/user-attachments/assets/aa58eb62-df24-4db1-894c-e308e95480f1)
