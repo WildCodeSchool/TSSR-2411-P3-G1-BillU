@@ -7,7 +7,8 @@
 ![GPO-fond-ecran-6](https://github.com/user-attachments/assets/4aa9350f-7457-41a0-aa3e-621b34f14a32)
 ![GPO-fond-ecran-7](https://github.com/user-attachments/assets/daed6eb6-52f2-48cd-928f-2f8ab9cf83eb)
 ![GPO-fond-ecran-8](https://github.com/user-attachments/assets/5d515ce0-cb6b-4976-bf34-2c0d96e41893)
-![GPO-fond-ecran-9](https://github.com/user-attachments/assets/624625d9-cadd-46eb-abb1-94f10d7d1dec)
+![GPO-fond-ecran-10](https://github.com/user-attachments/assets/f9e1b42d-eaba-4611-a926-fb3b8fbcf1d0)
+
 ## 2. Mappage lecteur : ajout d'une lecteur réseau
 ![GPO-mappage-lecteur-1](https://github.com/user-attachments/assets/b2cb1484-fca8-4377-bd2d-a982ddd7af15)
 ![GPO-fond-ecran-1](https://github.com/user-attachments/assets/3aca8a0e-b3b6-4244-b45c-e57fc2c418af)
@@ -42,7 +43,7 @@
 ![GPO-verouillage-mot-de-passe-4](https://github.com/user-attachments/assets/9d95519c-df35-4657-9b5b-d4a4d80248bf)
 ![GPO-verouillage-mot-de-passe-5](https://github.com/user-attachments/assets/b2f7bde1-ccfe-4202-b88e-b03ac9e06670)
 ![GPO-verouillage-mot-de-passe-6](https://github.com/user-attachments/assets/55fb441b-6d17-43bc-a1d8-18b82404d885)
-## 5. Vérrouiller le mot de passe après 5 tentatives
+## 5. Message à l'écran de verrouilage
 
 ![GPO-ecran-veille-avec-mdp-1](https://github.com/user-attachments/assets/ec6b997d-61cd-475b-aee9-276608a3a046)
 ![GPO-ecran-veille-avec-mdp-2](https://github.com/user-attachments/assets/d76c9ee9-e521-46af-99a2-a3d49b83f747)
