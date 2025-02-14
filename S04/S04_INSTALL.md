@@ -60,7 +60,7 @@
 ![GPO-blocage-powershell-2](https://github.com/user-attachments/assets/9ed56564-e761-4ee7-9703-e9919ea88c36)
 ![GPO-blocage-powershell-3](https://github.com/user-attachments/assets/5a746266-0012-4082-b1db-6ca38045954d)
 ![GPO-blocage-powershell-4](https://github.com/user-attachments/assets/766b12f5-555e-469c-847b-4bdb4badfa3e)
-## 8. Interdire l'accès au gestionnaire de tâches sauf pour les administrateurs
+## 9. Interdire l'accès au gestionnaire de tâches sauf pour les administrateurs
 ![GPO-desactiver-gestionnaire-de-taches-1](https://github.com/user-attachments/assets/64db55ba-9cf3-4ac7-875f-ad018ead44fa)
 ![GPO-desactiver-gestionnaire-de-taches-2](https://github.com/user-attachments/assets/2ed75b04-d204-4dac-942f-ceeef5e55c53)
 ![GPO-desactiver-gestionnaire-de-taches-3](https://github.com/user-attachments/assets/06de6fdd-4297-4d34-8766-25244edb2a4d)
