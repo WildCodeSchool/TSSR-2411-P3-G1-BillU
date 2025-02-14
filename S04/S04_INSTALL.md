@@ -43,21 +43,19 @@
 ![GPO-verouillage-mot-de-passe-4](https://github.com/user-attachments/assets/9d95519c-df35-4657-9b5b-d4a4d80248bf)
 ![GPO-verouillage-mot-de-passe-5](https://github.com/user-attachments/assets/b2f7bde1-ccfe-4202-b88e-b03ac9e06670)
 ![GPO-verouillage-mot-de-passe-6](https://github.com/user-attachments/assets/55fb441b-6d17-43bc-a1d8-18b82404d885)
-## 5. Message à l'écran de verrouilage
+## 6. Message à l'écran de verrouilage
 ![GPO-message-ecran-de-verrouillage-1](https://github.com/user-attachments/assets/12df1213-a9ee-4927-bf8e-1a2c25733876)
 ![GPO-message-ecran-de-verrouillage-2](https://github.com/user-attachments/assets/03852b5d-c6a8-4eff-8630-3b5c7db1316c)
 ![GPO-message-ecran-de-verrouillage-3](https://github.com/user-attachments/assets/b5ca38e2-25f1-403a-8fb3-ba7f00f7971a)
 ![GPO-message-ecran-de-verrouillage-4](https://github.com/user-attachments/assets/39b210d6-a075-4f70-b0cd-2d40b1db70c8)
-
+## 7. 
 ![GPO-ecran-veille-avec-mdp-1](https://github.com/user-attachments/assets/ec6b997d-61cd-475b-aee9-276608a3a046)
 ![GPO-ecran-veille-avec-mdp-2](https://github.com/user-attachments/assets/d76c9ee9-e521-46af-99a2-a3d49b83f747)
 ![GPO-ecran-veille-avec-mdp-3](https://github.com/user-attachments/assets/3537262a-3b01-4549-892b-cc656515de22)
 ![GPO-ecran-veille-avec-mdp-5](https://github.com/user-attachments/assets/948a4cca-7e8b-4c06-b7dc-9a557b9282cd)
 ![GPO-ecran-veille-avec-mdp-6](https://github.com/user-attachments/assets/7336f536-9fad-4464-b9be-0a697f754ccd)
-![GPO-ecran-verrouillage-2](https://github.com/user-attachments/assets/7b8c35c3-52df-4d39-a130-6d664199e798)
-![GPO-ecran-verrouillage-3](https://github.com/user-attachments/assets/d7c895de-3e9d-46af-be3c-bd48984f436e)
-![GPO-ecran-verrouillage-4](https://github.com/user-attachments/assets/65dfec70-9614-474d-97a2-3198e6cad67c)
-## 7. Interdire l'accès à Powershell sauf pour les administrateurs
+
+## 8. Interdire l'accès à Powershell sauf pour les administrateurs
 ![GPO-blocage-powershell-1](https://github.com/user-attachments/assets/814c327a-6cd8-4208-a25c-e8e6db9333d2)
 ![GPO-blocage-powershell-2](https://github.com/user-attachments/assets/9ed56564-e761-4ee7-9703-e9919ea88c36)
 ![GPO-blocage-powershell-3](https://github.com/user-attachments/assets/5a746266-0012-4082-b1db-6ca38045954d)
