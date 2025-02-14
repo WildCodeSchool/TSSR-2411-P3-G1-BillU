@@ -48,13 +48,13 @@
 ![GPO-message-ecran-de-verrouillage-2](https://github.com/user-attachments/assets/03852b5d-c6a8-4eff-8630-3b5c7db1316c)
 ![GPO-message-ecran-de-verrouillage-3](https://github.com/user-attachments/assets/b5ca38e2-25f1-403a-8fb3-ba7f00f7971a)
 ![GPO-message-ecran-de-verrouillage-4](https://github.com/user-attachments/assets/39b210d6-a075-4f70-b0cd-2d40b1db70c8)
-## 7. 
+## 7. Ecran de veille avec déverrouillage mot de passe
 ![GPO-ecran-veille-avec-mdp-1](https://github.com/user-attachments/assets/ec6b997d-61cd-475b-aee9-276608a3a046)
 ![GPO-ecran-veille-avec-mdp-2](https://github.com/user-attachments/assets/d76c9ee9-e521-46af-99a2-a3d49b83f747)
 ![GPO-ecran-veille-avec-mdp-3](https://github.com/user-attachments/assets/3537262a-3b01-4549-892b-cc656515de22)
 ![GPO-ecran-veille-avec-mdp-5](https://github.com/user-attachments/assets/948a4cca-7e8b-4c06-b7dc-9a557b9282cd)
 ![GPO-ecran-veille-avec-mdp-6](https://github.com/user-attachments/assets/7336f536-9fad-4464-b9be-0a697f754ccd)
-
+![GPO-verouiller-ecran-10](https://github.com/user-attachments/assets/a3a100a6-df65-450f-8c57-0f7843c2fd3d)
 ## 8. Interdire l'accès à Powershell sauf pour les administrateurs
 ![GPO-blocage-powershell-1](https://github.com/user-attachments/assets/814c327a-6cd8-4208-a25c-e8e6db9333d2)
 ![GPO-blocage-powershell-2](https://github.com/user-attachments/assets/9ed56564-e761-4ee7-9703-e9919ea88c36)
