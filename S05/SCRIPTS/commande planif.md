@@ -1,0 +1,1 @@
+SCHTASKS /Create /S PC-CLIENT-1 /U Administrator /P Azerty1* /SC ONCE /ST 20:00 /TN "ConfigTelemetry" /TR "powershell.exe -ExecutionPolicy Bypass -File \\SRV-BILLU-1\share\telemetry-script.ps1" /RU SYSTEM
