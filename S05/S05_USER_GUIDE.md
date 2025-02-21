@@ -1,3 +1,46 @@
+# Journal de bord - Semaine 5
+
+📝 **Nouvelle méthodologie de travail**
+
+ -planning avec des priorité plus détaillé
+ - Optimisation des taches
+ - avancées plus rapide et precise des besoins
+
+📡 **Schéma CPT avec VLANs fonctionnels :**
+- Révision du schéma réseau avec ajustement des VLANs.
+- Optimisation de la configuration du switch et vérification des routages inter-VLAN.
+
+
+👥 **Active Directory : Groupes, Ordinateurs, Utilisateurs :**
+- Création des ordinateurs dans l'AD.
+- Ajustement de l'arborescence et mise à jour des groupes d'utilisateurs.
+- Tests de connexion des machines au domaine et application des stratégies de groupe.
+
+🖥️ **GLPI : Intégration des machines :**
+- Importation réussie de plusieurs machines dans GLPI.
+- Validation de la remontée automatique des informations.
+
+💾 **Veeam : Mise en place d'un serveur de sauvegarde :**
+- Création d'un nouveau serveur dédié à Veeam.
+- Installation et configuration initiale du logiciel de sauvegarde.
+- Début de la configuration des politiques de sauvegarde.
+
+🗂️ **Disque  en RAID 1 sur le serveur principal :**
+- Mise en place du RAID 1 sur le serveur principal.
+- Création de l'arborescence des dossiers avec application des droits d'accès basés sur les groupes AD.
+- Tests d'accès aux ressources partagées par les utilisateurs.
+
+📜 **Script PowerShell : Intégration automatique des serveurs AD :**
+- Développement d'un script PowerShell pour ajouter automatiquement un serveur au domaine Active Directory.
+- Test et validation du script avec succès.
+
+📈 **Télémétrie en cours :**
+- Développement en cours d'un script PowerShell pour la mise en place et la gestion de la télémétrie.
+- Tests initiaux en cours pour la collecte des métriques système et réseau.
+
+Les avancées de cette semaine sont prometteuses, avec des résultats concrets sur la majorité des tâches prévues.
+
+
 
 # 🚀 Guide de Déploiement Automatisé AD-DS
 
