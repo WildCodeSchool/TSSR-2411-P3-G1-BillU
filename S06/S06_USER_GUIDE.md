@@ -1,129 +1,127 @@
+# 📅 **Journal de Bord - Semaine 6**
 
-📅 Journal de Bord - Semaine 6
+## 🎯 **Objectif de la semaine**
 
-🎯 Objectif de la semaine
+- 📝 Mise en place d'une gestion centralisée des logs
+- 💻 Journalisation des scripts PowerShell
+- 🔍 Supervision de l'infrastructure réseau
+- 🔐 Surveillance du pare-feu pfSense
+- 👥 Mise à jour des utilisateurs Active Directory (AD) suite aux changements RH
+- 📊 Mise en place d'une GPO pour la télémétrie
 
-📝 Mise en place d'une gestion centralisée des logs
+---
 
-💻 Journalisation des scripts PowerShell
+## 📂 **1. Journalisation - Gestion des logs centralisée**
 
-🔍 Supervision de l'infrastructure réseau
+### ✅ **Réalisé**
 
-🔐 Surveillance du pare-feu pfSense
+- **Système utilisé :** Graylog ([https://github.com/Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server))
+- **Installation sur VM (non-dédié) ou CT :** Terminée
+- **Gestion des logs des serveurs :** En cours
 
-👥 Mise à jour des utilisateurs Active Directory (AD) suite aux changements RH
+### 🚧 **Prochaines étapes**
 
-📊 Mise en place d'une GPO pour la télémétrie
+- Finaliser la gestion des logs des serveurs
 
-📂 1. Journalisation - Gestion des logs centralisée
+---
 
-✅ Réalisé
+## 💾 **2. Journalisation des scripts PowerShell**
 
-Système utilisé : Graylog (https://github.com/Graylog2/graylog2-server)
+### ✅ **Réalisé**
 
-Installation sur VM (non-dédié) ou CT : Terminée
+- Début de la mise en place d'une journalisation dédiée aux scripts PowerShell
 
-Gestion des logs des serveurs : En cours
+### 🚧 **En cours**
 
-🚧 Prochaines étapes
+- Adapter les logs pour qu'ils soient lisibles par :
+  - 🪟 Observateur d’événements Windows
+  - 📑 CMTRACE ([https://www.tech2tech.fr/cmtrace-lire-vos-fichiers-logs-facilement/](https://www.tech2tech.fr/cmtrace-lire-vos-fichiers-logs-facilement/))
 
-Finaliser la gestion des logs des serveurs
+### 📅 **À faire**
 
-💾 2. Journalisation des scripts PowerShell
+- Modifier les scripts PowerShell pour intégrer la journalisation
+- Définir un répertoire spécifique pour les logs
+- Veiller à ce qu'un seul log soit généré par script
 
-✅ Réalisé
+---
 
-Début de la mise en place d'une journalisation dédiée aux scripts PowerShell
+## 📡 **3. Supervision de l'infrastructure réseau**
 
-🚧 En cours
+### ✅ **Réalisé**
 
-Adapter les logs pour qu'ils soient lisibles par :
+- Utilisation de **ZABBIX** ([https://www.zabbix.com/](https://www.zabbix.com/))
+- Installation sur VM/CT dédié
+- Supervision des éléments de l'infrastructure
 
-🪟 Observateur d’événements Windows
+### 🚧 **En cours**
 
-📑 CMTRACE (https://www.tech2tech.fr/cmtrace-lire-vos-fichiers-logs-facilement/)
+- Création des dashboards pour une meilleure visibilité des métriques
 
-📅 À faire
+### 📅 **Prochaines étapes**
 
-Modifier les scripts PowerShell pour intégrer la journalisation
+- Finaliser les dashboards ZABBIX
 
-Définir un répertoire spécifique pour les logs
+---
 
-Veiller à ce qu'un seul log soit généré par script
+## 🔥 **4. Surveillance du pare-feu pfSense**
 
-📡 3. Supervision de l'infrastructure réseau
+### ✅ **Réalisé**
 
-✅ Réalisé
+- Surveillance générale mise en place par Philippe et Karim
 
-Utilisation de ZABBIX (https://www.zabbix.com/)
+### 📅 **À faire**
 
-Installation sur VM/CT dédié
+- Mise en place d'un dashboard dédié
+- Ajouter et modifier les widgets pour un suivi optimisé
 
-Supervision des éléments de l'infrastructure
+---
 
-🚧 En cours
+## 👥 **5. Mise à jour des utilisateurs AD**
 
-Création des dashboards pour une meilleure visibilité des métriques
+### ✅ **Réalisé**
 
-📅 Prochaines étapes
+- Intégration des nouveaux utilisateurs
+- Modifications RH appliquées :
+  - 🚪 Départ de Yacine Hamad, remplacé par Jean Leclerc
+  - 🆕 Changement de nom du "Département Juridique" en "Service Juridique"
+  - 👩‍💼 Remplacement de Fauve Hôlth par Jacqueline André
+  - ❌ Désactivation des comptes des collaborateurs partis
+  - ✨ Création de poste : Loic Blanc en tant que "Responsable marques"
+  - 🔄 Changements de services pour Remi Advezekt et Nina Ledoux
+  - 🏢 Création du "Département Juridique et Ressources Humaines" sous la direction de Sylvain Krajycëk
 
-Finaliser les dashboards ZABBIX
+### 💡 **Remarques**
 
-🔥 4. Surveillance du pare-feu pfSense
+- Les règles de pare-feu doivent encore être affinées suite aux modifications RH.
 
-✅ Réalisé
+---
 
-Surveillance générale mise en place par Philippe et Karim
+## 📊 **6. Mise en place d'une GPO pour la télémétrie**
 
-📅 À faire
+### ✅ **Réalisé**
 
-Mise en place d'un dashboard dédié
+- Création d'une GPO dédiée à la collecte de données de télémétrie
+- Application de la GPO sur les postes utilisateurs et serveurs
 
-Ajouter et modifier les widgets pour un suivi optimisé
+### 📅 **Prochaines étapes**
 
-👥 5. Mise à jour des utilisateurs AD
+- Vérifier la remontée des données dans les outils de supervision
+- Adapter les configurations si nécessaire
 
-✅ Réalisé
+---
 
-Intégration des nouveaux utilisateurs
-
-Modifications RH appliquées :
-
-🚪 Départ de Yacine Hamad, remplacé par Jean Leclerc
-
-🆕 Changement de nom du "Département Juridique" en "Service Juridique"
-
-👩‍💼 Remplacement de Fauve Hôlth par Jacqueline André
-
-❌ Désactivation des comptes des collaborateurs partis
-
-✨ Création de poste : Loic Blanc en tant que "Responsable marques"
-
-🔄 Changements de services pour Remi Advezekt et Nina Ledoux
-
-🏢 Création du "Département Juridique et Ressources Humaines" sous la direction de Sylvain Krajycëk
-
-💡 Remarques
-
-Les règles de pare-feu doivent encore être affinées suite aux modifications RH.
-
-📊 6. Mise en place d'une GPO pour la télémétrie
-
-✅ Réalisé
-
-Création d'une GPO dédiée à la collecte de données de télémétrie
-
-Application de la GPO sur les postes utilisateurs et serveurs
-
-📅 Prochaines étapes
-
-Vérifier la remontée des données dans les outils de supervision
-
-Adapter les configurations si nécessaire
-
-🧠 Conclusion
+## 🧠 **Conclusion**
 
 La semaine 6 a permis d'avancer significativement sur plusieurs volets critiques de l'infrastructure. La centralisation des logs, la supervision du réseau, la mise à jour des comptes AD et la configuration de la GPO pour la télémétrie renforcent la sécurité et la gestion des ressources.
 
 Les tâches en cours devront être finalisées dans la semaine suivante, notamment concernant la journalisation PowerShell, la création de dashboards sur ZABBIX et pfSense, ainsi que l'optimisation de la télémétrie.
 
+---
+
+## ⏭️ **Prochaines actions**
+
+- Poursuivre la gestion des logs des serveurs via Graylog
+- Intégrer la journalisation dans les scripts PowerShell
+- Finaliser les dashboards sur ZABBIX et pfSense
+- Optimiser les règles de pare-feu
+- Suivre la remontée de la télémétrie via la GPO
