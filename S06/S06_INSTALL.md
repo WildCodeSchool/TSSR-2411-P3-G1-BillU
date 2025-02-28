@@ -2,6 +2,7 @@
 2. [Installation du partage de dossier et des droits d'accès](#2-Installation-du-partage-de-dossier-et-des-droits-daccès)
 3. [Installation et configuration de GLPI Agent](#3-Installation-et-configuration-de-GLPI-Agent)
 4. [Installation et configuration de LAPS](#3-Installation-et-configuration-de-LAPS)
+5. [Installation de l'agent Zabbix sur PfSense](#3-Installation-de-lagent-Zabbix-sur-PfSense)
 
 
 # 1. Installation de Veeam
@@ -92,3 +93,20 @@
 ![installation et paramétrage - LAPS - 14](https://github.com/user-attachments/assets/47b5a619-fb3b-4a59-9f40-57c707a37475)
 ![installation et paramétrage - LAPS - 15](https://github.com/user-attachments/assets/76e3f195-d724-48f6-8d4a-ef626a858cc9)
 
+# 5. Installation de l'agent Zabbix sur PfSense
+
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-1.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-2.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-3.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-4.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-5.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-6.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-7.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-8.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-9.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-10.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-11.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-12.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-13.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-14.jpg)
+![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-15.jpg)
