@@ -156,7 +156,7 @@ Ajustez les paramètres de mémoire :
 -Xms1g
 -Xmx1g
 ```
-![image](https://github.com/user-attachments/assets/588ba1dd-f5dd-44da-b372-79ec9a9cb193)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/588ba1dd-f5dd-44da-b372-79ec9a9cb193" alt=""></p>
 
 ### 6. Démarrer et activer le Data Node
 
@@ -221,9 +221,9 @@ data_dir = /var/lib/graylog-server
 # Configuration du journal des messages
 message_journal_max_size = 4gb
 ```
-![Capture d’écran 2025-02-26 143155](https://github.com/user-attachments/assets/c98549ae-79c6-4574-bd6c-d1f9dd476be4)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/c98549ae-79c6-4574-bd6c-d1f9dd476be4" alt=""></p>
 
-![Capture d’écran 2025-02-26 144207](https://github.com/user-attachments/assets/34749782-ea0b-43f6-a5da-1c542687c388)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/34749782-ea0b-43f6-a5da-1c542687c388" alt=""></p>
 
 
 ### 4. Ajuster les paramètres JVM pour Graylog
@@ -277,7 +277,7 @@ http_tls_key_password = secret
    * Nom d'utilisateur : `admin`
    * Mot de passe : celui que vous avez défini avec `root_password_sha2`
 
-![Capture d’écran 2025-02-26 151029](https://github.com/user-attachments/assets/406b0b79-34cd-4e6e-be9a-597cbf5a38b2)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/406b0b79-34cd-4e6e-be9a-597cbf5a38b2" alt=""></p>
 
 
 # 🛠️ Configuration d'un Input dans Graylog et Installation de NXLog sur Windows
@@ -314,10 +314,10 @@ Ce guide vous explique comment configurer un **input GELF UDP** dans Graylog et 
    - Assurez-vous que l'Input est actif (indiqué par une icône verte).
 
 ---
-![Capture d’écran 2025-02-26 154206](https://github.com/user-attachments/assets/32e87182-4cfb-4c5a-a205-e43afe60dc23)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/32e87182-4cfb-4c5a-a205-e43afe60dc23" alt=""></p>
 
 
-![Capture d’écran 2025-02-26 154510](https://github.com/user-attachments/assets/c8450ac0-c2ad-4b1a-9cae-730a85dc28af)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/c8450ac0-c2ad-4b1a-9cae-730a85dc28af" alt=""></p>
 
 
 
@@ -336,7 +336,7 @@ Ce guide vous explique comment configurer un **input GELF UDP** dans Graylog et 
    - Choisissez le répertoire d'installation (par défaut : `C:\Program Files (x86)\nxlog`).
    - Terminez l'installation.
 
-![Capture d’écran 2025-02-26 154618](https://github.com/user-attachments/assets/63056393-b9c2-4f79-9231-50914f71ff2c)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/63056393-b9c2-4f79-9231-50914f71ff2c" alt=""></p>
 
 
 ### 3. Configurer NXLog
@@ -346,7 +346,7 @@ Ce guide vous explique comment configurer un **input GELF UDP** dans Graylog et 
    - Ouvrez le fichier `nxlog.conf` avec un éditeur de texte (par exemple, Notepad++).
 
 
-![Capture d’écran 2025-02-26 154922](https://github.com/user-attachments/assets/b4991138-e743-4c40-a0f0-b2683ee6b315)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/b4991138-e743-4c40-a0f0-b2683ee6b315" alt=""></p>
 
 
 
@@ -381,7 +381,7 @@ Ce guide vous explique comment configurer un **input GELF UDP** dans Graylog et 
      - **Port** : Assurez-vous que le port correspond à celui configuré dans l'Input GELF UDP (par défaut : `12201`).
 
 
-![Capture d’écran 2025-02-26 155511](https://github.com/user-attachments/assets/dbc0c38b-e570-4e6b-85a5-dbffc569f39a)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/dbc0c38b-e570-4e6b-85a5-dbffc569f39a" alt=""></p>
 
 
 3. **Enregistrer les modifications** :
@@ -422,7 +422,7 @@ Ce guide vous explique comment configurer un **input GELF UDP** dans Graylog et 
 
 
 
-![Capture d’écran 2025-02-26 165012](https://github.com/user-attachments/assets/bcba0a6a-2305-4267-ab19-41e12c6df6ae)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/bcba0a6a-2305-4267-ab19-41e12c6df6ae" alt=""></p>
 
 
 ---
