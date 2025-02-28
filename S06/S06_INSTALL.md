@@ -76,7 +76,11 @@
 
 # 4. Installation et configuration de LAPS
 
-
+![installation et paramétrage - LAPS - 2](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%201.jpg))
+![installation et paramétrage - LAPS - 2](https://github.com/user-attachments/assets/5b4f0559-191f-4c19-9afc-b50dce046006)
+![installation et paramétrage - LAPS - 3](https://github.com/user-attachments/assets/5b4f0559-191f-4c19-9afc-b50dce046006)
+![installation et paramétrage - LAPS - 4](https://github.com/user-attachments/assets/5b4f0559-191f-4c19-9afc-b50dce046006)
+![installation et paramétrage - LAPS - 5](https://github.com/user-attachments/assets/5b4f0559-191f-4c19-9afc-b50dce046006)
 ![installation et paramétrage - LAPS - 6](https://github.com/user-attachments/assets/5b4f0559-191f-4c19-9afc-b50dce046006)
 ![installation et paramétrage - LAPS - 7](https://github.com/user-attachments/assets/22a471ee-690a-42bd-8032-36deb3cf7fbd)
 ![installation et paramétrage - LAPS - 8](https://github.com/user-attachments/assets/d5a69b05-71a4-48f3-8c11-35834343ee5f)
