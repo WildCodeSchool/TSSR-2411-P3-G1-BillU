@@ -7,8 +7,8 @@
 5. [Installation de l'agent Zabbix sur PfSense](#5-Installation-de-lagent-Zabbix-sur-PfSense)
 6. [Modifications des paramètres de l'AD](#6-Modifications-des-paramètres-de-lAD)
 
-
 # 1. Paramétrage de Veeam
+
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/424c7bb6-87a5-4060-9f7f-146a74ba2457" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/e07cf8b3-86dc-4702-8d1a-3697ec59fd1d" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/1f7dc2ad-22ea-4ef6-a840-0c0b44f37d87" alt=""></p>
@@ -44,6 +44,7 @@
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/c03b98d9-fb74-4ee0-982c-023ae0bb2d05" alt=""></p>
 
 # 2. Installation du partage de dossier et des droits d'accès
+
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/e94f6a51-d02a-49ba-b391-5fe686315532" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/1fbd30ec-837a-427c-8bca-86d8c8554412" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/cdebca30-65dd-4c5d-9988-93e8a20ab24c" alt=""></p>
@@ -60,7 +61,6 @@
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/10f585ad-d58b-4652-9e0e-d3d8a07cf3cb" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/e3cf762d-e971-45f4-9caa-d491446abf6f" alt=""></p>
 
-
 # 3. Installation et configuration de GLPI Agent
 
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/4c2eebd5-279f-403a-83db-abb78d89e95c" alt=""></p>
@@ -76,7 +76,6 @@
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/4134c7ff-b190-49ae-8642-3ffbe3e479e9" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/e96ca25f-9ad4-4be4-bbf8-d86687d76a30" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/40fe8e71-b0c5-4b92-972c-fc0ecc3d90f8" alt=""></p>
-
 
 # 4. Installation et configuration de LAPS
 
