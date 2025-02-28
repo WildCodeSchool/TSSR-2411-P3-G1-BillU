@@ -446,10 +446,7 @@ Ce guide vous explique comment configurer un **input GELF UDP** dans Graylog et 
 
 ---
 
-## 🎉 Félicitations !
 
-Vous avez configuré un Input dans Graylog et installé NXLog sur un serveur Windows pour transmettre des logs. Vous pouvez maintenant analyser vos journaux dans Graylog et configurer des tableaux de bord pour une meilleure visibilité. 🚀
-```
 
 
 ## 🔍 Vérification de l'installation
