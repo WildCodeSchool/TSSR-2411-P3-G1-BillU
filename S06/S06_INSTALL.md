@@ -1,5 +1,6 @@
 1. [Installation de Veeam](#1-Installation-de-Veeam)
 2. [Installation du partage de dossier et des droits d'accès](#2-Installation-du-partage-de-dossier-et-des-droits-daccès)
+3. [Installation et configuration de GLPI Agent](#2-Installation-et-configuration-de-GLPI-Agent)
 
 
 
@@ -60,7 +61,21 @@
 ![Partage de synchro - 15](https://github.com/user-attachments/assets/e3cf762d-e971-45f4-9caa-d491446abf6f)
 
 
+# 3. Installation et configuration de GLPI Agent
 
+![GPO - GLPI Agent](https://github.com/user-attachments/assets/4c2eebd5-279f-403a-83db-abb78d89e95c)
+![GPO - GLPI Agent-2](https://github.com/user-attachments/assets/76601b5c-b11b-4540-8551-3255cc8ab923)
+![GPO - GLPI Agent-3](https://github.com/user-attachments/assets/f134260c-b17f-418e-b7ca-1385aad5b402)
+![GPO - GLPI Agent-4](https://github.com/user-attachments/assets/b46f6fd0-d2fb-4e69-bb94-ba552a1b5a59)
+![GPO - GLPI Agent-5](https://github.com/user-attachments/assets/07b7c916-2e76-4617-8754-d2833a7706e4)
+![GPO - GLPI Agent-6](https://github.com/user-attachments/assets/9ff7d0d7-bbcc-406e-a76f-03e88767789f)
+![GPO - GLPI Agent-7](https://github.com/user-attachments/assets/83835cdf-2f08-454e-a9b7-55aba3b005b6)
+![GPO - GLPI Agent- Ajout-registre-8](https://github.com/user-attachments/assets/bc78dc36-0383-48ad-835b-f58d54cfdd2e)
+![GPO - GLPI Agent- Ajout-registre-9](https://github.com/user-attachments/assets/174e4588-4b4a-4915-aaeb-e000683f2359)
+![GPO - GLPI Agent- Ajout-registre-10](https://github.com/user-attachments/assets/7cab1558-1c55-49a5-bd1c-2d467c00c0ee)
+![GPO - GLPI Agent- Ajout-registre-11](https://github.com/user-attachments/assets/4134c7ff-b190-49ae-8642-3ffbe3e479e9)
+![GPO - GLPI Agent- Ajout-registre-12](https://github.com/user-attachments/assets/e96ca25f-9ad4-4be4-bbf8-d86687d76a30)
+![GPO - GLPI Agent- Ajout-registre-13](https://github.com/user-attachments/assets/40fe8e71-b0c5-4b92-972c-fc0ecc3d90f8)
 
 
 
