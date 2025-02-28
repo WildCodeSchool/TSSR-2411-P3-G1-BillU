@@ -1,4 +1,4 @@
- Set-ADUser -Identity $_.SamAccountName -LogonHours '111111100000000000000001111111111111111111111111111111111111111111111111'
+
 # Journal de bord : Projet BillU
 
 ## **Semaine 1 : Lancement du projet**
