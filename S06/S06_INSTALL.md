@@ -1,6 +1,13 @@
-
 1. [Installation de Veeam](#1-Installation-de-Veeam)
+2. [Installation du partage de dossier et des droits d'accès](#2-Installation-du-partage-de-dossier-et-des-droits-d'accès)
 
+
+
+
+
+
+
+# 1. Installation de Veeam
 ![Veeam config - 1](https://github.com/user-attachments/assets/424c7bb6-87a5-4060-9f7f-146a74ba2457)
 ![Veeam config - 2](https://github.com/user-attachments/assets/e07cf8b3-86dc-4702-8d1a-3697ec59fd1d)
 ![Veeam config - 3](https://github.com/user-attachments/assets/1f7dc2ad-22ea-4ef6-a840-0c0b44f37d87)
@@ -34,3 +41,27 @@
 ![Veeam config - rapport OK - 31](https://github.com/user-attachments/assets/8dd7034e-d1e6-4cea-91b8-d96e65116b13)
 ![Veeam config - rapport OK - 32](https://github.com/user-attachments/assets/dd6591c1-31f4-49e5-847c-a84f48f12d7c)
 ![Veeam config - rapport OK - 33](https://github.com/user-attachments/assets/c03b98d9-fb74-4ee0-982c-023ae0bb2d05)
+
+# 2. Installation du partage de dossier et des droits d'accès
+![Partage de synchro - 1](https://github.com/user-attachments/assets/e94f6a51-d02a-49ba-b391-5fe686315532)
+![Partage de synchro - 2](https://github.com/user-attachments/assets/1fbd30ec-837a-427c-8bca-86d8c8554412)
+![Partage de synchro - 3](https://github.com/user-attachments/assets/cdebca30-65dd-4c5d-9988-93e8a20ab24c)
+![Partage de synchro - 4](https://github.com/user-attachments/assets/79d73e7b-7761-4abe-941f-683793d1827d)
+![Partage de synchro - 5](https://github.com/user-attachments/assets/5b67b39a-a62c-46a6-a4bb-5106461a7895)
+![Partage de synchro - 6](https://github.com/user-attachments/assets/dfac6a71-0b27-4ee6-8161-7272666bbc41)
+![Partage de synchro - 7](https://github.com/user-attachments/assets/d338130e-6738-4ac0-8278-a3efc88ee738)
+![Partage de synchro - 8](https://github.com/user-attachments/assets/60bd57b8-d6e3-4e55-ad86-24ca92710c81)
+![Partage de synchro - 9](https://github.com/user-attachments/assets/63cfa4b6-1bb9-4987-ae9c-b9da70d78a5f)
+![Partage de synchro - 10](https://github.com/user-attachments/assets/dcea1cf0-f462-4b2c-9fa5-577fc94d5576)
+![Partage de synchro - 11](https://github.com/user-attachments/assets/26a8023f-1b8b-4e09-a810-e5ec488d06df)
+![Partage de synchro - 12](https://github.com/user-attachments/assets/20b90cda-7fc7-4f8c-8656-488866d791ed)
+![Partage de synchro - 13](https://github.com/user-attachments/assets/dc431a0f-871a-4546-964e-efe43ef5002f)
+![Partage de synchro - 14](https://github.com/user-attachments/assets/10f585ad-d58b-4652-9e0e-d3d8a07cf3cb)
+![Partage de synchro - 15](https://github.com/user-attachments/assets/e3cf762d-e971-45f4-9caa-d491446abf6f)
+
+
+
+
+
+
+
