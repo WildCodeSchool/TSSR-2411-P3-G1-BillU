@@ -8,6 +8,8 @@
 - 🔐 Surveillance du pare-feu pfSense
 - 👥 Mise à jour des utilisateurs Active Directory (AD) suite aux changements RH
 - 📊 Mise en place d'une GPO pour la télémétrie
+- 🔑 Mise en place de LAPS sur le serveur principal et application sur un client
+
 
 ---
 
@@ -103,10 +105,14 @@
 - Création d'une GPO dédiée à la collecte de données de télémétrie
 - Application de la GPO sur les postes utilisateurs et serveurs
 
-### 📅 **Prochaines étapes**
+## 🔑 **Mise en place de LAPS**
+  
+### ✅ **Réalisé**
 
-- Vérifier la remontée des données dans les outils de supervision
-- Adapter les configurations si nécessaire
+-Installation de LAPS sur le serveur principal : Terminée  
+-Mise en application sur un client via GPO : Terminée
+
+
 
 ---
 
