@@ -75,7 +75,7 @@ net:
   port: 27017
   bindIp: 127.0.0.1
 ```
-![image](https://github.com/user-attachments/assets/2e99d65d-2f93-49c5-850e-ee905ac38779)
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/2e99d65d-2f93-49c5-850e-ee905ac38779" alt=""></p>
 
 ### 8. Démarrer et activer MongoDB
 
