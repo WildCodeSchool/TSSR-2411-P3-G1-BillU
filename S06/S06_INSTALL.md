@@ -87,4 +87,5 @@
 ![installation et paramétrage - LAPS - 13](https://github.com/user-attachments/assets/80529e7f-3658-4246-84ad-5ceb4a74b13f)
 ![installation et paramétrage - LAPS - 14](https://github.com/user-attachments/assets/47b5a619-fb3b-4a59-9f40-57c707a37475)
 ![installation et paramétrage - LAPS - 15](https://github.com/user-attachments/assets/76e3f195-d724-48f6-8d4a-ef626a858cc9)
+![Capture d’écran 2025-02-26 151029](https://github.com/user-attachments/assets/128432e7-0642-48fe-9cf6-894694db4c8d)
 
