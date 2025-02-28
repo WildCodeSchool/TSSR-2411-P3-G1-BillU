@@ -1,6 +1,6 @@
 # 📝 BILLU - Objectifs de la semaine 6
 
-1. [Installation de Veeam](#1-Installation-de-Veeam)
+1. [Paramétrage de Veeam](#1-Paramétrage-de-Veeam)
 2. [Installation du partage de dossier et des droits d'accès](#2-Installation-du-partage-de-dossier-et-des-droits-daccès)
 3. [Installation et configuration de GLPI Agent](#3-Installation-et-configuration-de-GLPI-Agent)
 4. [Installation et configuration de LAPS](#4-Installation-et-configuration-de-LAPS)
@@ -8,7 +8,7 @@
 6. [Modifications des paramètres de l'AD](#6-Modifications-des-paramètres-de-lAD)
 
 
-# 1. Installation de Veeam
+# 1. Paramétrage de Veeam
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/424c7bb6-87a5-4060-9f7f-146a74ba2457" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/e07cf8b3-86dc-4702-8d1a-3697ec59fd1d" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/1f7dc2ad-22ea-4ef6-a840-0c0b44f37d87" alt=""></p>
