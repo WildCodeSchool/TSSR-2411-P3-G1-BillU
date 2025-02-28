@@ -3,7 +3,7 @@
 3. [Installation et configuration de GLPI Agent](#3-Installation-et-configuration-de-GLPI-Agent)
 4. [Installation et configuration de LAPS](#4-Installation-et-configuration-de-LAPS)
 5. [Installation de l'agent Zabbix sur PfSense](#5-Installation-de-lagent-Zabbix-sur-PfSense)
-6. [Modifications des paramètres de l'AD(#6-Installation-de-lagent-Zabbix-sur-PfSense)
+6. [Modifications des paramètres de l'AD](#6-Modifications des paramètres de l'AD)
 
 
 # 1. Installation de Veeam
@@ -78,51 +78,51 @@
 
 # 4. Installation et configuration de LAPS
 
-![installation et paramétrage - LAPS - 1](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%201.jpg)
-![installation et paramétrage - LAPS - 2](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%202.jpg)
-![installation et paramétrage - LAPS - 3](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%203.jpg)
-![installation et paramétrage - LAPS - 4](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%204.jpg)
-![installation et paramétrage - LAPS - 5](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%205.jpg)
-![installation et paramétrage - LAPS - 6](https://github.com/user-attachments/assets/5b4f0559-191f-4c19-9afc-b50dce046006)
-![installation et paramétrage - LAPS - 7](https://github.com/user-attachments/assets/22a471ee-690a-42bd-8032-36deb3cf7fbd)
-![installation et paramétrage - LAPS - 8](https://github.com/user-attachments/assets/d5a69b05-71a4-48f3-8c11-35834343ee5f)
-![installation et paramétrage - LAPS - 9](https://github.com/user-attachments/assets/c7aa845f-3a42-45a7-85bd-a3e926b780a0)
-![installation et paramétrage - LAPS - 10](https://github.com/user-attachments/assets/47ff6a28-f121-4744-90ca-aed6dcca4fed)
-![installation et paramétrage - LAPS - 11](https://github.com/user-attachments/assets/bbf4783a-9cef-4ab6-8c9c-eba83a2c8d64)
-![installation et paramétrage - LAPS - 12](https://github.com/user-attachments/assets/a02903d8-6f77-4e3b-a7c2-4ddbfacfb662)
-![installation et paramétrage - LAPS - 13](https://github.com/user-attachments/assets/80529e7f-3658-4246-84ad-5ceb4a74b13f)
-![installation et paramétrage - LAPS - 14](https://github.com/user-attachments/assets/47b5a619-fb3b-4a59-9f40-57c707a37475)
-![installation et paramétrage - LAPS - 15](https://github.com/user-attachments/assets/76e3f195-d724-48f6-8d4a-ef626a858cc9)
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%201.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%202.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%203.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%204.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/installation%20et%20param%C3%A9trage%20-%20LAPS%20-%205.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/5b4f0559-191f-4c19-9afc-b50dce046006" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/22a471ee-690a-42bd-8032-36deb3cf7fbd" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/d5a69b05-71a4-48f3-8c11-35834343ee5f" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/c7aa845f-3a42-45a7-85bd-a3e926b780a0" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/47ff6a28-f121-4744-90ca-aed6dcca4fed" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/bbf4783a-9cef-4ab6-8c9c-eba83a2c8d64" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/a02903d8-6f77-4e3b-a7c2-4ddbfacfb662" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/80529e7f-3658-4246-84ad-5ceb4a74b13f" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/47b5a619-fb3b-4a59-9f40-57c707a37475" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/76e3f195-d724-48f6-8d4a-ef626a858cc9" alt=""></p>
 
 # 5. Installation de l'agent Zabbix sur PfSense
 
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-1.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-2.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-3.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-4.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-5.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-6.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-7.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-8.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-9.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-10.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-11.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-12.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-13.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-14.jpg)
-![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-15.jpg)
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-1.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-2.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-3.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-4.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-5.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-6.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-7.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-8.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-9.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-10.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-11.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-12.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-13.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-14.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-15.jpg" alt=""></p>
 
 # 6. Modifications des paramètres de l'AD
 
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-1.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-2.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-3.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-4.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-5.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-6.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-7.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-8.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-des-groupes-au-nouvel-utilisateur-9.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-des-groupes-au-nouvel-utilisateur-10.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-departement-juridique-et-ressources-humaines-et-modifications-11.jpg)
-![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-du-responsable-du-departement-juridique-et-ressources-humaines-12.jpg)
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-1.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-2.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-3.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-4.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-5.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-6.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-7.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-8.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-des-groupes-au-nouvel-utilisateur-9.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-des-groupes-au-nouvel-utilisateur-10.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-departement-juridique-et-ressources-humaines-et-modifications-11.jpg" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-du-responsable-du-departement-juridique-et-ressources-humaines-12.jpg" alt=""></p>
