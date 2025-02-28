@@ -3,6 +3,7 @@
 3. [Installation et configuration de GLPI Agent](#3-Installation-et-configuration-de-GLPI-Agent)
 4. [Installation et configuration de LAPS](#4-Installation-et-configuration-de-LAPS)
 5. [Installation de l'agent Zabbix sur PfSense](#5-Installation-de-lagent-Zabbix-sur-PfSense)
+6. [Modifications des paramètres de l'AD(#6-Installation-de-lagent-Zabbix-sur-PfSense)
 
 
 # 1. Installation de Veeam
@@ -110,3 +111,18 @@
 ![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-13.jpg)
 ![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-14.jpg)
 ![installation de l'agent Zabbix](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/install-zabbix-agent-sur-pfsense-15.jpg)
+
+# 6. Modifications des paramètres de l'AD
+
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-1.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-2.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-3.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-4.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-5.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-6.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-7.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-8.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-des-groupes-au-nouvel-utilisateur-9.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-des-groupes-au-nouvel-utilisateur-10.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-departement-juridique-et-ressources-humaines-et-modifications-11.jpg)
+![Modifs AD](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S06/RESSOURCES/modifs-ad-billu-semaine-6-ajout-du-responsable-du-departement-juridique-et-ressources-humaines-12.jpg)
