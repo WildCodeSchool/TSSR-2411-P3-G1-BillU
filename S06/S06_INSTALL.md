@@ -1,8 +1,8 @@
 1. [Installation de Veeam](#1-Installation-de-Veeam)
 2. [Installation du partage de dossier et des droits d'accès](#2-Installation-du-partage-de-dossier-et-des-droits-daccès)
 3. [Installation et configuration de GLPI Agent](#3-Installation-et-configuration-de-GLPI-Agent)
-4. [Installation et configuration de LAPS](#3-Installation-et-configuration-de-LAPS)
-5. [Installation de l'agent Zabbix sur PfSense](#3-Installation-de-lagent-Zabbix-sur-PfSense)
+4. [Installation et configuration de LAPS](#4-Installation-et-configuration-de-LAPS)
+5. [Installation de l'agent Zabbix sur PfSense](#5-Installation-de-lagent-Zabbix-sur-PfSense)
 
 
 # 1. Installation de Veeam
