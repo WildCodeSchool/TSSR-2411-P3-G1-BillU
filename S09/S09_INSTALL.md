@@ -241,20 +241,7 @@ systemctl restart nginx
 
 ---
 
-## 🔒 7. Sécuriser avec HTTPS (Let’s Encrypt)  
-Installer Certbot :  
-```bash
-apt install certbot python3-certbot-nginx -y
-```
-Obtenir un certificat SSL :  
-```bash
-certbot --nginx -d monsite.com -d www.monsite.com
-```
-Certbot modifie la configuration et ajoute HTTPS automatiquement. 🎉
-
----
-
-## 🚀 8. Vérifications et mise en ligne  
+## 🚀 7. Vérifications et mise en ligne  
 1. Ajouter l’**IP publique et IPv6** dans la configuration **DNS du domaine**.  
 2. Tester l’accès depuis un navigateur :  
    - `http://monsite.com`  
