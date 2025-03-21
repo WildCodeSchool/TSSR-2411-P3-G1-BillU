@@ -142,7 +142,9 @@ Exemple pour **Camille Martin** :
 
 🎉 **Félicitations ! Vous avez installé FreePBX 16, effectué les mises
 
-
+<br>
+<br>
+<br>
 
 # 🌐 Installer un serveur Web Nginx et le rendre accessible en WAN
 
