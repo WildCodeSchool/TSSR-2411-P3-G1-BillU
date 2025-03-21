@@ -144,4 +144,128 @@ Exemple pour **Camille Martin** :
 
 
 
+# 🌐 Installer un serveur Web Nginx et le rendre accessible en WAN
+
+## 📌 1. Création du container sur Proxmox  
+1. Ouvrir **Proxmox VE** et créer un **nouveau conteneur LXC**.  
+2. Sélectionner une distribution Linux (ex: **Debian 12**).  
+3. Assigner la carte réseau **VMBRG1** pour l'accès local.  
+
+---
+
+## 📌 2. Installation de Nginx  
+Se connecter au conteneur en SSH et exécuter :  
+```bash
+apt update && apt upgrade -y
+apt install nginx -y
+```
+Activer et démarrer le service :  
+```bash
+systemctl enable nginx
+systemctl start nginx
+```
+Vérifier l'installation :  
+```bash
+systemctl status nginx
+```
+Tester en accédant à `http://[IP_du_container]` depuis un navigateur.
+
+---
+
+## 🎨 3. Création du template du site  
+1. Développer un site en HTML/CSS (ou utiliser un template existant).  
+2. Placer les fichiers dans un dossier et **compresser en .zip**.  
+3. Héberger l’archive sur **GitHub**, **Google Drive**, ou un serveur perso.  
+
+---
+
+## 👥 4. Importation et décompression du site  
+Sur le serveur, exécuter :  
+```bash
+cd /var/www/
+wget https://URL_DU_ZIP
+mkdir monsite
+unzip fichier.zip -d monsite/
+rm fichier.zip
+```
+
+---
+
+## 🌍 5. Ajout de l’IPv6 et accès WAN  
+Ajouter une **deuxième carte réseau** au conteneur via **Proxmox** :  
+- Interface : **VMBR3**  
+- Attribuer une **adresse IPv6** publique si disponible.  
+
+Redémarrer la VM pour prendre en compte l’interface.  
+```bash
+reboot
+```
+
+---
+
+## 🛠️ 6. Configuration de Nginx  
+Créer un fichier de configuration :  
+```bash
+nano /etc/nginx/sites-available/monsite
+```
+Ajouter la configuration suivante :  
+```nginx
+server {
+    listen 80;
+    listen [::]:80;
+    
+    server_name monsite.com www.monsite.com;
+
+    root /var/www/monsite;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}
+```
+Créer un lien symbolique :  
+```bash
+ln -s /etc/nginx/sites-available/monsite /etc/nginx/sites-enabled/
+```
+Tester la configuration :  
+```bash
+nginx -t
+```
+Redémarrer Nginx :  
+```bash
+systemctl restart nginx
+```
+
+---
+
+## 🔒 7. Sécuriser avec HTTPS (Let’s Encrypt)  
+Installer Certbot :  
+```bash
+apt install certbot python3-certbot-nginx -y
+```
+Obtenir un certificat SSL :  
+```bash
+certbot --nginx -d monsite.com -d www.monsite.com
+```
+Certbot modifie la configuration et ajoute HTTPS automatiquement. 🎉
+
+---
+
+## 🚀 8. Vérifications et mise en ligne  
+1. Ajouter l’**IP publique et IPv6** dans la configuration **DNS du domaine**.  
+2. Tester l’accès depuis un navigateur :  
+   - `http://monsite.com`  
+   - `https://monsite.com`  
+3. Vérifier que **HTTPS est bien actif**.  
+
+---
+
+## 🎯 Conclusion  
+Votre serveur **Nginx** est maintenant accessible depuis Internet avec un **nom de domaine sécurisé en HTTPS** ! 🚀
+
+
+
+
+
 
