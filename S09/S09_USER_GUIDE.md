@@ -1,5 +1,22 @@
 
+٩(◕‿◕｡)۶ 
+
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣾⣿⣿⣿⣷⣶⣦⣄⡀⣀⣤⣶⣶⣿⣿⣿⣿⣶⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣤⣶⣶⣶⣶⣄⡀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⢀⣤⣶⣶⣶⣶⣤⡀⠀⠀
+⠀⣴⣿⣿⣿⣿⠿⢿⣿⣿⡄⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⣰⣿⣿⡿⢿⣿⣿⣿⣿⣄⠀
+⢸⣿⣿⣿⡟⠀⠀⠀⠈⢿⡿⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⣿⡟⠁⠀⠀⠈⢿⣿⣿⣿⡄
+⢸⣿⣿⣿⣇⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⠀⠀⠀⠀⠀⣼⣿⣿⣿⡇
+⠘⣿⣿⣿⣿⣷⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣿⣿⣿⣿⡿⠀
+⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀
+⠀⠀⠀⠈⠙⠻⠿⠿⣿⣿⣿⡿⠿⠿⠟⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠿⠿⠿⣿⣿⣿⣿⡿⠿⠟⠋⠁⠀⠀⠀  ⠀⠀⠀⠀⠀⠀
+  
+
 # **📅 Journal de Bord – Semaine 9**
+
+# 💖🤝 COLLABORATION AVEC ECOTECH-SOLUTION 🤝💖
+
+Nous avons travaillé en étroite collaboration avec nos collègues de EcoTech-Solution depuis notre partenariat avec eux. Cette coopération nous a permis d’optimiser nos processus et d’atteindre nos objectifs plus efficacement. 🚀
 
 ## **📞 Mise en place du serveur VoIP**
 Nous avons débuté la semaine avec la mise en place d’un serveur de téléphonie sur IP en utilisant **FreePBX** (version 16) sur une **machine virtuelle** dédiée. 🖥️ L’installation s’est déroulée sans encombre et nous avons rapidement pu configurer les premières lignes VoIP.
@@ -34,4 +51,6 @@ Nous avons consacré la fin de la semaine à la validation finale des installati
 Une semaine productive et sans accroc ! 💪 Nous avons réussi à atteindre tous les objectifs fixés en travaillant efficacement en équipe. 👏 Prochaine étape : finaliser les détails pour l’éventuel accès externe du serveur web et explorer d’autres optimisations. 🔍
 
 🚀 **Mission accomplie !** 🏁🎉
+
+⠀⠀![flat,750x,075,f-pad,750x1000,f8f8f8 u2](https://github.com/user-attachments/assets/010915b8-a496-4ec2-bda9-ccf366a2c893)
 
