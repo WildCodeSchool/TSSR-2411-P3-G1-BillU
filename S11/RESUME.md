@@ -2,16 +2,16 @@
 
 ## 📖 Sommaire
 
-- [S01 - Proposition d'Infrastructure Réseau](#s01---proposition-dinfrastructure-réseau)
-- [S02 - Lier le Serveur Core au Domaine & Promotion en DC RODC](#s02---lier-le-serveur-core-au-domaine--promotion-en-dc-rodc)
-- [S03 - Création des GPO & Gestion de Parc](#s03---création-des-gpo--gestion-de-parc)
-- [S04 - Listage des GPO Appliquées](#s04---listage-des-gpo-appliquées)
-- [S05 - Aucun Changement](#s05---aucun-changement)
-- [S06 - Paramétrage de Veeam & Autres Configurations](#s06---paramétrage-de-veeam--autres-configurations)
-- [S07 - Aucun Changement](#s07---aucun-changement)
-- [S08 - Aucun Changement](#s08---aucun-changement)
-- [S09 - Installation de FreePBX & Serveur Web](#s09---installation-de-freepbx--serveur-web)
-- [S10 - À Faire](#s10---à-faire)
+- [🌐 S01 - Proposition d'Infrastructure Réseau](#-s01---proposition-dinfrastructure-réseau)
+- [🏢 S02 - Lier le Serveur Core au Domaine & Promotion en DC RODC](#-s02---lier-le-serveur-core-au-domaine--promotion-en-dc-rodc)
+- [🛠 S03 - Création des GPO & Gestion de Parc](#-s03---création-des-gpo--gestion-de-parc)
+- [🔍 S04 - Listage des GPO Appliquées](#-s04---listage-des-gpo-appliquées)
+- [🚫 S05 - Aucun Changement](#-s05---aucun-changement)
+- [🔧 S06 - Paramétrage de Veeam & Autres Configurations](#-s06---paramétrage-de-veeam--autres-configurations)
+- [🚫 S07 - Aucun Changement](#-s07---aucun-changement)
+- [🚫 S08 - Aucun Changement](#-s08---aucun-changement)
+- [📞 S09 - Installation de FreePBX & Serveur Web](#-s09---installation-de-freepbx--serveur-web)
+- [🚀 S10 - À Faire](#-s10---à-faire)
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ## 🔍 S04 - Listage des GPO Appliquées
-📌 [Voir le document](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S04/S05_INSTALL.md)
+📌 [Voir le document](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S04/S04_INSTALL.md)
 
 ### 📌 GPO en Place
 - Fond d'écran
