@@ -3,6 +3,9 @@
 ## 1️⃣ Audit Active Directory 🏢
 ### 🔍 PurpleKnight - Audit de configuration de l’AD
 
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/3db04c31-13d3-459b-815a-76475116b0f6" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/4d62019d-c463-4237-b266-bf515d07a1b3" alt=""></p>
+
 #### 📊 Analyse des résultats
 - **Score initial : 76%**
 - L’outil **PurpleKnight** permet d’identifier les vulnérabilités et failles de configuration au sein d’Active Directory.
@@ -29,6 +32,10 @@
     ```
 
 #### 🎯 Amélioration du score
+
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/5c1aef9e-4bac-46c3-9ae8-73b4afca56c2" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/f296e15c-ddd1-4388-a12b-b4282f51e35f" alt=""></p>
+
 - Score après corrections : **+2%** 📈
 - Pour une amélioration plus significative :
   - **Renforcement des politiques de mots de passe** (longueur, complexité, expiration) 🔐
@@ -42,7 +49,12 @@
 
 #### 📊 Score
 - **Avant : 68%**
+
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/f55c1851-e487-47a7-93cf-d85ecd9deb51" alt=""></p>
+
 - **Après corrections : 76%** ✅
+
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/ff5eead8-f10c-46cd-ad4e-4bcf5c5ece0e" alt=""></p>
 
 #### 📝 Modifications de fichiers critiques
 - **`/etc/login.defs`** :
@@ -86,8 +98,14 @@
 ## 3️⃣ Audit Scripts PowerShell ⚡
 ### 🔍 PSScriptAnalyzer - Vérification des scripts PowerShell
 
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/deb05520-fd2a-4590-9bf9-c3724a10e437" alt=""></p>
+
 #### ✅ Vérification de la qualité du code
 - **Analyse des scripts de création d’utilisateurs et d’ajout de machines** 🏢💻.
+
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/ab1fa607-f178-4f02-8e11-bd7894430fc7" alt=""></p>
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/cbcdb463-5aff-4014-af36-5331ab48b513" alt=""></p>
+
 - **Recherche des erreurs de syntaxe et des violations des bonnes pratiques**.
 - Exemple d’analyse :
   ```powershell
@@ -98,7 +116,7 @@
 - **Correction des erreurs identifiées** par PSScriptAnalyzer.
 - **Ajout de commentaires et documentation** pour améliorer la lisibilité.
 - **Intégration dans VSCode** avec l’extension PowerShell pour un développement plus structuré 🖥️.
-
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/60cc92ae-3361-496f-9435-8df3213524d8" alt=""></p>
 ---
 
 ## 4️⃣ Audit Serveurs Windows 🪟
@@ -147,24 +165,17 @@
 
 
 
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/4d62019d-c463-4237-b266-bf515d07a1b3" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/5c1aef9e-4bac-46c3-9ae8-73b4afca56c2" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/f296e15c-ddd1-4388-a12b-b4282f51e35f" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/cc6d59a5-2624-4be4-858d-05d83f335ae2" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/458b9da5-a7a8-493a-affd-160f9832f4c1" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/f55c1851-e487-47a7-93cf-d85ecd9deb51" alt=""></p>
+
+
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/b87d4b7e-8949-4322-9eb8-040433044e45" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/525c6ceb-117b-4a1a-8cd1-4ccc51c74baf" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/bfe20edc-f663-4343-a9a8-f023a810be22" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/d95901be-aae6-4708-ab99-485f4af1f500" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/ff5eead8-f10c-46cd-ad4e-4bcf5c5ece0e" alt=""></p>
+
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/31ffe601-c724-48b4-8065-10e6d9f04706" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/1ba35409-fec7-44c3-82fb-43df20f3d164" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/fb8bb7f8-9bae-4c81-ae1a-92e3a3641c1e" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/49df0391-4068-4a4d-a77a-b898b1fde2a0" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/aa7c9ded-4ad1-4a88-bdf5-bec9d8744b86" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/deb05520-fd2a-4590-9bf9-c3724a10e437" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/ab1fa607-f178-4f02-8e11-bd7894430fc7" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/cbcdb463-5aff-4014-af36-5331ab48b513" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/60cc92ae-3361-496f-9435-8df3213524d8" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/fa86bba6-2ee4-45a2-9f93-19628be9a716" alt=""></p>
+
+
