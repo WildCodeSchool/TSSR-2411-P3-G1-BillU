@@ -67,10 +67,34 @@
 
 - **`/etc/pam.d/common-password`** :
   - Utilisation de `pam_pwquality` pour renforcer les règles de mots de passe.
-  - Exemple :
-    ```bash
-    password requisite pam_pwquality.so retry=3 minlen=12 difok=3
-    ```
+
+# 🔐 Résumé des paramètres du fichier `/etc/common-password`
+
+## 🛡️ 1. Contrôle de la complexité du mot de passe  
+- **`pam_pwquality.so retry=3 minlen=12`**  
+  ✅ Exige une longueur minimale de **12 caractères**  
+  🔄 Limite à **3 tentatives** en cas d'échec  
+
+## 💾 2. Stockage et validation des mots de passe  
+- **`pam_unix.so obscure use_authtok try_first_pass yescrypt`**  
+  🔑 Utilise les mots de passe chiffrés avec **yescrypt**  
+  🔍 Applique des règles de complexité supplémentaires (`obscure`)  
+  🔄 Réutilise le mot de passe saisi en premier (`try_first_pass`)  
+
+- **`pam_unix.so sha512 rounds=5000`**  
+  🔐 Utilise **SHA-512** pour hacher les mots de passe avec **5000 itérations**  
+
+## ✅ 3. Validation et autorisation  
+- **`pam_permit.so`**  
+  🟢 Garantit qu'au moins un module renvoie une validation positive pour éviter des erreurs  
+
+## 🚨 4. Protection contre les tentatives de brute-force  
+- **`pam_tally2.so deny=3 onerr=fail`**  
+  🔒 Bloque un compte après **3 échecs de connexion**  
+  ❌ Refuse l'accès en cas d'erreur système  
+
+⚡ **Conclusion** : Ces paramètres renforcent la **sécurité des mots de passe** et limitent les risques d'attaques par force brute. 🚀  
+
 
 - **`/etc/sudoers`** :
   - Restriction des droits sudo à des utilisateurs spécifiques.
