@@ -1,3 +1,6 @@
+
+![ascii-art](https://github.com/user-attachments/assets/05cee77d-007b-4700-a7a7-7aefc0e488d3)
+
 # Journal de Bord - Semaine 10 🚀🔒
 
 ## Objectif Principal : Mise en Place du PC d'Administration 💻
