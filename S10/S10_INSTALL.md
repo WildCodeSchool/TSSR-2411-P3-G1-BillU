@@ -171,19 +171,3 @@
 - Mise en place d’une **surveillance proactive** avec alertes 📡
 
 
-
-
-
-
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/b87d4b7e-8949-4322-9eb8-040433044e45" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/525c6ceb-117b-4a1a-8cd1-4ccc51c74baf" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/bfe20edc-f663-4343-a9a8-f023a810be22" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/d95901be-aae6-4708-ab99-485f4af1f500" alt=""></p>
-
-
-
-
-
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/aa7c9ded-4ad1-4a88-bdf5-bec9d8744b86" alt=""></p>
-
-
