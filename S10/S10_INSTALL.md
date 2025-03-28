@@ -127,9 +127,15 @@
   ```powershell
   accesschk.exe -u utilisateur -f dossier
   ```
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/1ba35409-fec7-44c3-82fb-43df20f3d164" alt=""></p>
 
 - **AccessEnum** 📂 : Liste les permissions sur les répertoires et registres sensibles.
+
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/fb8bb7f8-9bae-4c81-ae1a-92e3a3641c1e" alt=""></p>
+
 - **ShareEnum** ❌ : Échec de l’exécution (analyse à approfondir).
+
+<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/49df0391-4068-4a4d-a77a-b898b1fde2a0" alt=""></p>
 
 ---
 
@@ -173,9 +179,9 @@
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/d95901be-aae6-4708-ab99-485f4af1f500" alt=""></p>
 
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/31ffe601-c724-48b4-8065-10e6d9f04706" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/1ba35409-fec7-44c3-82fb-43df20f3d164" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/fb8bb7f8-9bae-4c81-ae1a-92e3a3641c1e" alt=""></p>
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/49df0391-4068-4a4d-a77a-b898b1fde2a0" alt=""></p>
+
+
+
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/aa7c9ded-4ad1-4a88-bdf5-bec9d8744b86" alt=""></p>
 
 
