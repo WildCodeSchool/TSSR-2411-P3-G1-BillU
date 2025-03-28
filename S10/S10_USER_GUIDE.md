@@ -10,12 +10,11 @@
 
 #### Contexte et Objectifs
 - Création d'un PC dédié à l'administration informatique 🛡️
-- Système d'exploitation : Windows 10/11 ou Ubuntu LTS
-- Accès strictement limité aux utilisateurs habilités IT 🔐
+- Nous sommes partis sur une autre façons de faire
+- Nous utilisons une solutions d'administrations
 
 #### Caractéristiques Clés
 - Machine centralisée pour la gestion de l'infrastructure réseau et systèmes 🌐
-- Configuration basée sur le document `s10_preparation_pcAdministration.md`
 - Objectif : Centraliser les outils et logiciels de sécurité 🧰
 
 ### 2. Audits de Sécurité Réalisés 🧕‍♀️
