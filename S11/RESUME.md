@@ -1,3 +1,4 @@
+
 # 📌 Résumé du Projet 3 - Infrastructure Réseau Professionnelle
 
 ## 📖 Sommaire
@@ -11,7 +12,7 @@
 - [🚫 S07 - Aucun Changement](#-s07---aucun-changement)
 - [🚫 S08 - Aucun Changement](#-s08---aucun-changement)
 - [📞 S09 - Installation de FreePBX & Serveur Web](#-s09---installation-de-freepbx--serveur-web)
-- [🚀 S10 - À Faire](#-s10---à-faire)
+- [🛡 S10 - Audit et Sécurisation de l'Infrastructure](#-s10---audit-et-sécurisation-de-linfrastructure)
 
 ---
 
@@ -42,7 +43,7 @@
 ---
 
 ## 🔍 S04 - Listage des GPO Appliquées
-📌 [Voir le document](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S04/S04_INSTALL.md)
+📌 [Voir le document](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S04/S05_INSTALL.md)
 
 ### 📌 GPO en Place
 - Fond d'écran
@@ -91,7 +92,14 @@
 
 ---
 
-## 🚀 S10 - À Faire
+## 🛡 S10 - Audit et Sécurisation de l'Infrastructure
+📌 [Voir le document](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S10/S10_INSTALL.md)
+
+### ✅ Actions Prévue
+- Audit Windows
+- Audit Active Directory
+- Audit Serveurs
+- Audit Linux
 
 ---
 
