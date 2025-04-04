@@ -1,5 +1,4 @@
 
-<br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/9e0d80b1-af80-48ff-bf38-5f55941e65cd" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/user-attachments/assets/b4f8354d-e575-495a-b8aa-a1c08f6e4307" alt=""></p>
 
 # 🚀 Évolution de l'infrastructure informatique de BillU  
