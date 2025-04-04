@@ -1,6 +1,6 @@
+https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S01/RESSOURCES/IMAGES/Design%20sans%20titre.png
 
-
-# | BillU Project |![](https://github.com/WildCodeSchool/TSSR-2411-P3-G1-BillU/blob/main/S01/RESSOURCES/IMAGES/Design%20sans%20titre.png)
+# | BillU Project |
 
 # 🏢 BillU : Filiale du Groupe RemindMe
 
