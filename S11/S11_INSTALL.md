@@ -1,3 +1,6 @@
+
+![ascii-art (1)](https://github.com/user-attachments/assets/9e0d80b1-af80-48ff-bf38-5f55941e65cd)
+
 # 🚀 Évolution de l'infrastructure informatique de BillU  
 
 ## 🖥️ 1. Matériel informatique  
